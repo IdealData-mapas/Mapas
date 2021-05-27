@@ -6,7 +6,7 @@
 </Schema>
 <Folder><name>CHIAPAS</name>
   <Placemark>
-	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>1</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#CHIAPAS">
 		<SimpleData name="visibility">1</SimpleData>
 	</SchemaData></ExtendedData>
@@ -15,7 +15,7 @@
 </Folder>
 <Folder><name>ISLA_DANZANTE_BAJA_CALIFORNIA_SUR</name>
   <Placemark>
-	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>1</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#ISLA_DANZANTE_BAJA_CALIFORNIA_SUR">
 		<SimpleData name="visibility">1</SimpleData>
 	</SchemaData></ExtendedData>
@@ -24,7 +24,7 @@
 </Folder>
 <Folder><name>ISLA_MARIA_ISABELITA_NAYARIT</name>
   <Placemark>
-	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>1</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#ISLA_MARIA_ISABELITA_NAYARIT">
 		<SimpleData name="visibility">1</SimpleData>
 	</SchemaData></ExtendedData>
@@ -33,7 +33,7 @@
 </Folder>
 <Folder><name>ISLA_SAN_JUANICO_NAYARIT</name>
   <Placemark>
-	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>1</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#ISLA_SAN_JUANICO_NAYARIT">
 		<SimpleData name="visibility">1</SimpleData>
 	</SchemaData></ExtendedData>
@@ -42,7 +42,7 @@
 </Folder>
 <Folder><name>ISLA_TURNER_SONORA</name>
   <Placemark>
-	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>1</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#ISLA_TURNER_SONORA">
 		<SimpleData name="visibility">1</SimpleData>
 	</SchemaData></ExtendedData>
@@ -51,7 +51,7 @@
 </Folder>
 <Folder><name>TABASCO</name>
   <Placemark>
-	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>1</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#TABASCO">
 		<SimpleData name="visibility">1</SimpleData>
 	</SchemaData></ExtendedData>
@@ -60,7 +60,7 @@
 </Folder>
 <Folder><name>CAYO_CULEBRA_QUINTANA_ROO</name>
   <Placemark>
-	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>1</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#CAYO_CULEBRA_QUINTANA_ROO">
 		<SimpleData name="visibility">1</SimpleData>
 	</SchemaData></ExtendedData>
@@ -69,7 +69,7 @@
 </Folder>
 <Folder><name>ISLA_CONTOY_QUINTANA_ROO</name>
   <Placemark>
-	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>1</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#ISLA_CONTOY_QUINTANA_ROO">
 		<SimpleData name="visibility">1</SimpleData>
 	</SchemaData></ExtendedData>
@@ -78,7 +78,7 @@
 </Folder>
 <Folder><name>ISLA_LOBOS_SONORA</name>
   <Placemark>
-	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>1</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#ISLA_LOBOS_SONORA">
 		<SimpleData name="visibility">1</SimpleData>
 	</SchemaData></ExtendedData>
@@ -87,7 +87,7 @@
 </Folder>
 <Folder><name>ISLA_SAN_FRANCISCO_BAJA_CALIFORNIA_SUR</name>
   <Placemark>
-	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>1</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#ISLA_SAN_FRANCISCO_BAJA_CALIFORNIA_SUR">
 		<SimpleData name="visibility">1</SimpleData>
 	</SchemaData></ExtendedData>
@@ -96,7 +96,7 @@
 </Folder>
 <Folder><name>ISLA_TIBURON_SONORA</name>
   <Placemark>
-	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>1</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#ISLA_TIBURON_SONORA">
 		<SimpleData name="visibility">1</SimpleData>
 	</SchemaData></ExtendedData>
@@ -105,7 +105,7 @@
 </Folder>
 <Folder><name>SAN_LUIS_POTOSI</name>
   <Placemark>
-	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>1</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#SAN_LUIS_POTOSI">
 		<SimpleData name="visibility">1</SimpleData>
 	</SchemaData></ExtendedData>
@@ -114,7 +114,7 @@
 </Folder>
 <Folder><name>BAJA_CALIFORNIA_SUR</name>
   <Placemark>
-	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>1</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#BAJA_CALIFORNIA_SUR">
 		<SimpleData name="visibility">1</SimpleData>
 	</SchemaData></ExtendedData>
@@ -123,7 +123,7 @@
 </Folder>
 <Folder><name>ISLA_CEDROS_BAJA_CALIFORNIA</name>
   <Placemark>
-	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>1</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#ISLA_CEDROS_BAJA_CALIFORNIA">
 		<SimpleData name="visibility">1</SimpleData>
 	</SchemaData></ExtendedData>
@@ -132,7 +132,7 @@
 </Folder>
 <Folder><name>ISLA_GUADALUPE_BAJA_CALIFORNIA</name>
   <Placemark>
-	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>1</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#ISLA_GUADALUPE_BAJA_CALIFORNIA">
 		<SimpleData name="visibility">1</SimpleData>
 	</SchemaData></ExtendedData>
@@ -141,7 +141,7 @@
 </Folder>
 <Folder><name>ISLA_SALSIPUEDES_BAJA_CALIFORNIA</name>
   <Placemark>
-	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>1</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#ISLA_SALSIPUEDES_BAJA_CALIFORNIA">
 		<SimpleData name="visibility">1</SimpleData>
 	</SchemaData></ExtendedData>
@@ -150,7 +150,7 @@
 </Folder>
 <Folder><name>ISLA_SIARI_SONORA</name>
   <Placemark>
-	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>1</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#ISLA_SIARI_SONORA">
 		<SimpleData name="visibility">1</SimpleData>
 	</SchemaData></ExtendedData>
@@ -159,7 +159,7 @@
 </Folder>
 <Folder><name>PUEBLA</name>
   <Placemark>
-	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>1</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#PUEBLA">
 		<SimpleData name="visibility">1</SimpleData>
 	</SchemaData></ExtendedData>
@@ -168,7 +168,7 @@
 </Folder>
 <Folder><name>ARRECIFE_TANGUIJO_VERACRUZ</name>
   <Placemark>
-	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>1</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#ARRECIFE_TANGUIJO_VERACRUZ">
 		<SimpleData name="visibility">1</SimpleData>
 	</SchemaData></ExtendedData>
@@ -177,7 +177,7 @@
 </Folder>
 <Folder><name>HIDALGO</name>
   <Placemark>
-	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>1</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#HIDALGO">
 		<SimpleData name="visibility">1</SimpleData>
 	</SchemaData></ExtendedData>
@@ -186,7 +186,7 @@
 </Folder>
 <Folder><name>ISLA_EL_MUERTO_BAJA_CALIFORNIA</name>
   <Placemark>
-	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>1</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#ISLA_EL_MUERTO_BAJA_CALIFORNIA">
 		<SimpleData name="visibility">1</SimpleData>
 	</SchemaData></ExtendedData>
@@ -195,7 +195,7 @@
 </Folder>
 <Folder><name>ISLA_PARTIDA_BAJA_CALIFORNIA</name>
   <Placemark>
-	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>1</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#ISLA_PARTIDA_BAJA_CALIFORNIA">
 		<SimpleData name="visibility">1</SimpleData>
 	</SchemaData></ExtendedData>
@@ -204,7 +204,7 @@
 </Folder>
 <Folder><name>ISLA_SANTA_CATALINA_BAJA_CALIFORNIA_SUR</name>
   <Placemark>
-	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>1</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#ISLA_SANTA_CATALINA_BAJA_CALIFORNIA_SUR">
 		<SimpleData name="visibility">1</SimpleData>
 	</SchemaData></ExtendedData>
@@ -213,7 +213,7 @@
 </Folder>
 <Folder><name>NAYARIT</name>
   <Placemark>
-	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>1</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#NAYARIT">
 		<SimpleData name="visibility">1</SimpleData>
 	</SchemaData></ExtendedData>
@@ -222,7 +222,7 @@
 </Folder>
 <Folder><name>ARRECIFE_BLANQUILLA_VERACRUZ</name>
   <Placemark>
-	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>1</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#ARRECIFE_BLANQUILLA_VERACRUZ">
 		<SimpleData name="visibility">1</SimpleData>
 	</SchemaData></ExtendedData>
@@ -231,7 +231,7 @@
 </Folder>
 <Folder><name>DURANGO</name>
   <Placemark>
-	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>1</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#DURANGO">
 		<SimpleData name="visibility">1</SimpleData>
 	</SchemaData></ExtendedData>
@@ -240,7 +240,7 @@
 </Folder>
 <Folder><name>ISLA_DE_TACHICHILTE_SINALOA</name>
   <Placemark>
-	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>1</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#ISLA_DE_TACHICHILTE_SINALOA">
 		<SimpleData name="visibility">1</SimpleData>
 	</SchemaData></ExtendedData>
@@ -249,7 +249,7 @@
 </Folder>
 <Folder><name>ISLA_MUJERES_QUINTANA_ROO</name>
   <Placemark>
-	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>1</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#ISLA_MUJERES_QUINTANA_ROO">
 		<SimpleData name="visibility">1</SimpleData>
 	</SchemaData></ExtendedData>
@@ -258,7 +258,7 @@
 </Folder>
 <Folder><name>ISLA_SAN_MARTIN_BAJA_CALIFORNIA</name>
   <Placemark>
-	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>1</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#ISLA_SAN_MARTIN_BAJA_CALIFORNIA">
 		<SimpleData name="visibility">1</SimpleData>
 	</SchemaData></ExtendedData>
@@ -267,7 +267,7 @@
 </Folder>
 <Folder><name>MEXICO</name>
   <Placemark>
-	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>1</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#MEXICO">
 		<SimpleData name="visibility">1</SimpleData>
 	</SchemaData></ExtendedData>
@@ -276,7 +276,7 @@
 </Folder>
 <Folder><name>YUCATAN</name>
   <Placemark>
-	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>1</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#YUCATAN">
 		<SimpleData name="visibility">1</SimpleData>
 	</SchemaData></ExtendedData>
@@ -285,7 +285,7 @@
 </Folder>
 <Folder><name>CHIHUAHUA</name>
   <Placemark>
-	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>1</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#CHIHUAHUA">
 		<SimpleData name="visibility">1</SimpleData>
 	</SchemaData></ExtendedData>
@@ -294,7 +294,7 @@
 </Folder>
 <Folder><name>ISLA_DE_ALTAMURA_SINALOA</name>
   <Placemark>
-	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>1</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#ISLA_DE_ALTAMURA_SINALOA">
 		<SimpleData name="visibility">1</SimpleData>
 	</SchemaData></ExtendedData>
@@ -303,7 +303,7 @@
 </Folder>
 <Folder><name>ISLA_MARIA_MADRE_NAYARIT</name>
   <Placemark>
-	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>1</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#ISLA_MARIA_MADRE_NAYARIT">
 		<SimpleData name="visibility">1</SimpleData>
 	</SchemaData></ExtendedData>
@@ -312,7 +312,7 @@
 </Folder>
 <Folder><name>ISLA_SAN_LORENZO_BAJA_CALIFORNIA</name>
   <Placemark>
-	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>1</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#ISLA_SAN_LORENZO_BAJA_CALIFORNIA">
 		<SimpleData name="visibility">1</SimpleData>
 	</SchemaData></ExtendedData>
@@ -321,7 +321,7 @@
 </Folder>
 <Folder><name>ISLAS_CORONADOS_BAJA_CALIFORNIA</name>
   <Placemark>
-	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>1</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#ISLAS_CORONADOS_BAJA_CALIFORNIA">
 		<SimpleData name="visibility">1</SimpleData>
 	</SchemaData></ExtendedData>
@@ -330,7 +330,7 @@
 </Folder>
 <Folder><name>TAMAULIPAS</name>
   <Placemark>
-	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>1</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#TAMAULIPAS">
 		<SimpleData name="visibility">1</SimpleData>
 	</SchemaData></ExtendedData>
@@ -339,7 +339,7 @@
 </Folder>
 <Folder><name>CAYO_LOBOS_QUINTANA_ROO</name>
   <Placemark>
-	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>1</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#CAYO_LOBOS_QUINTANA_ROO">
 		<SimpleData name="visibility">1</SimpleData>
 	</SchemaData></ExtendedData>
@@ -348,7 +348,7 @@
 </Folder>
 <Folder><name>ISLA_CORONADOS_BAJA_CALIFORNIA_SUR</name>
   <Placemark>
-	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>1</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#ISLA_CORONADOS_BAJA_CALIFORNIA_SUR">
 		<SimpleData name="visibility">1</SimpleData>
 	</SchemaData></ExtendedData>
@@ -357,7 +357,7 @@
 </Folder>
 <Folder><name>ISLA_MAGDALENA_BAJA_CALIFORNIA_SUR</name>
   <Placemark>
-	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>1</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#ISLA_MAGDALENA_BAJA_CALIFORNIA_SUR">
 		<SimpleData name="visibility">1</SimpleData>
 	</SchemaData></ExtendedData>
@@ -366,7 +366,7 @@
 </Folder>
 <Folder><name>ISLA_SAN_IGNACIO_SINALOA</name>
   <Placemark>
-	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>1</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#ISLA_SAN_IGNACIO_SINALOA">
 		<SimpleData name="visibility">1</SimpleData>
 	</SchemaData></ExtendedData>
@@ -375,7 +375,7 @@
 </Folder>
 <Folder><name>ISLA_TOBARI_SONORA</name>
   <Placemark>
-	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>1</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#ISLA_TOBARI_SONORA">
 		<SimpleData name="visibility">1</SimpleData>
 	</SchemaData></ExtendedData>
@@ -384,7 +384,7 @@
 </Folder>
 <Folder><name>SINALOA</name>
   <Placemark>
-	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>1</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#SINALOA">
 		<SimpleData name="visibility">1</SimpleData>
 	</SchemaData></ExtendedData>
@@ -393,7 +393,7 @@
 </Folder>
 <Folder><name>CAMPECHE</name>
   <Placemark>
-	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>1</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#CAMPECHE">
 		<SimpleData name="visibility">1</SimpleData>
 	</SchemaData></ExtendedData>
@@ -402,7 +402,7 @@
 </Folder>
 <Folder><name>ISLA_CERRALVO_BAJA_CALIFORNIA_SUR</name>
   <Placemark>
-	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>1</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#ISLA_CERRALVO_BAJA_CALIFORNIA_SUR">
 		<SimpleData name="visibility">1</SimpleData>
 	</SchemaData></ExtendedData>
@@ -411,7 +411,7 @@
 </Folder>
 <Folder><name>ISLA_LA_ASUNCION_BAJA_CALIFORNIA_SUR</name>
   <Placemark>
-	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>1</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#ISLA_LA_ASUNCION_BAJA_CALIFORNIA_SUR">
 		<SimpleData name="visibility">1</SimpleData>
 	</SchemaData></ExtendedData>
@@ -420,7 +420,7 @@
 </Folder>
 <Folder><name>ISLA_SAN_BENEDICTO_BAJA_CALIFORNIA_SUR</name>
   <Placemark>
-	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>1</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#ISLA_SAN_BENEDICTO_BAJA_CALIFORNIA_SUR">
 		<SimpleData name="visibility">1</SimpleData>
 	</SchemaData></ExtendedData>
@@ -429,7 +429,7 @@
 </Folder>
 <Folder><name>ISLA_SMITH_BAJA_CALIFORNIA</name>
   <Placemark>
-	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>1</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#ISLA_SMITH_BAJA_CALIFORNIA">
 		<SimpleData name="visibility">1</SimpleData>
 	</SchemaData></ExtendedData>
@@ -438,7 +438,7 @@
 </Folder>
 <Folder><name>QUERETARO</name>
   <Placemark>
-	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>1</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#QUERETARO">
 		<SimpleData name="visibility">1</SimpleData>
 	</SchemaData></ExtendedData>
@@ -447,7 +447,7 @@
 </Folder>
 <Folder><name>ARRECIFE_TUXPAN_VERACRUZ</name>
   <Placemark>
-	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>1</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#ARRECIFE_TUXPAN_VERACRUZ">
 		<SimpleData name="visibility">1</SimpleData>
 	</SchemaData></ExtendedData>
@@ -456,7 +456,7 @@
 </Folder>
 <Folder><name>ISLA_ANGEL_DE_LA_GUARDA_BAJA_CALIFORNIA</name>
   <Placemark>
-	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>1</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#ISLA_ANGEL_DE_LA_GUARDA_BAJA_CALIFORNIA">
 		<SimpleData name="visibility">1</SimpleData>
 	</SchemaData></ExtendedData>
@@ -465,7 +465,7 @@
 </Folder>
 <Folder><name>ISLA_ESPIRITU_SANTO_BAJA_CALIFORNIA_SUR</name>
   <Placemark>
-	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>1</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#ISLA_ESPIRITU_SANTO_BAJA_CALIFORNIA_SUR">
 		<SimpleData name="visibility">1</SimpleData>
 	</SchemaData></ExtendedData>
@@ -474,7 +474,7 @@
 </Folder>
 <Folder><name>ISLA_PATOS_SONORA</name>
   <Placemark>
-	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>1</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#ISLA_PATOS_SONORA">
 		<SimpleData name="visibility">1</SimpleData>
 	</SchemaData></ExtendedData>
@@ -483,7 +483,7 @@
 </Folder>
 <Folder><name>ISLA_SANTA_CRUZ_BAJA_CALIFORNIA_SUR</name>
   <Placemark>
-	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>1</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#ISLA_SANTA_CRUZ_BAJA_CALIFORNIA_SUR">
 		<SimpleData name="visibility">1</SimpleData>
 	</SchemaData></ExtendedData>
@@ -492,7 +492,7 @@
 </Folder>
 <Folder><name>NUEVO_LEON</name>
   <Placemark>
-	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>1</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#NUEVO_LEON">
 		<SimpleData name="visibility">1</SimpleData>
 	</SchemaData></ExtendedData>
@@ -501,7 +501,7 @@
 </Folder>
 <Folder><name>ARRECIFE_ENMEDIO_VERACRUZ</name>
   <Placemark>
-	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>1</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#ARRECIFE_ENMEDIO_VERACRUZ">
 		<SimpleData name="visibility">1</SimpleData>
 	</SchemaData></ExtendedData>
@@ -510,7 +510,7 @@
 </Folder>
 <Folder><name>GUANAJUATO</name>
   <Placemark>
-	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>1</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#GUANAJUATO">
 		<SimpleData name="visibility">1</SimpleData>
 	</SchemaData></ExtendedData>
@@ -519,7 +519,7 @@
 </Folder>
 <Folder><name>ISLA_DE_TECHAL_QUINTANA_ROO</name>
   <Placemark>
-	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>1</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#ISLA_DE_TECHAL_QUINTANA_ROO">
 		<SimpleData name="visibility">1</SimpleData>
 	</SchemaData></ExtendedData>
@@ -528,7 +528,7 @@
 </Folder>
 <Folder><name>ISLA_NATIVIDAD_BAJA_CALIFORNIA_SUR</name>
   <Placemark>
-	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>1</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#ISLA_NATIVIDAD_BAJA_CALIFORNIA_SUR">
 		<SimpleData name="visibility">1</SimpleData>
 	</SchemaData></ExtendedData>
@@ -537,7 +537,7 @@
 </Folder>
 <Folder><name>ISLA_SAN_PEDRO_MARTIR_SONORA</name>
   <Placemark>
-	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>1</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#ISLA_SAN_PEDRO_MARTIR_SONORA">
 		<SimpleData name="visibility">1</SimpleData>
 	</SchemaData></ExtendedData>
@@ -546,7 +546,7 @@
 </Folder>
 <Folder><name>MICHOACAN</name>
   <Placemark>
-	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>1</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#MICHOACAN">
 		<SimpleData name="visibility">1</SimpleData>
 	</SchemaData></ExtendedData>
@@ -555,7 +555,7 @@
 </Folder>
 <Folder><name>ZACATECAS</name>
   <Placemark>
-	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>1</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#ZACATECAS">
 		<SimpleData name="visibility">1</SimpleData>
 	</SchemaData></ExtendedData>
@@ -564,7 +564,7 @@
 </Folder>
 <Folder><name>COAHUILA</name>
   <Placemark>
-	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>1</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#COAHUILA">
 		<SimpleData name="visibility">1</SimpleData>
 	</SchemaData></ExtendedData>
@@ -573,7 +573,7 @@
 </Folder>
 <Folder><name>ISLA_DE_COZUMEL_QUINTANA_ROO</name>
   <Placemark>
-	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>1</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#ISLA_DE_COZUMEL_QUINTANA_ROO">
 		<SimpleData name="visibility">1</SimpleData>
 	</SchemaData></ExtendedData>
@@ -582,7 +582,7 @@
 </Folder>
 <Folder><name>ISLA_MARIA_MAGDALENA_NAYARIT</name>
   <Placemark>
-	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>1</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#ISLA_MARIA_MAGDALENA_NAYARIT">
 		<SimpleData name="visibility">1</SimpleData>
 	</SchemaData></ExtendedData>
@@ -591,7 +591,7 @@
 </Folder>
 <Folder><name>ISLA_SAN_LUIS_BAJA_CALIFORNIA</name>
   <Placemark>
-	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>1</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#ISLA_SAN_LUIS_BAJA_CALIFORNIA">
 		<SimpleData name="visibility">1</SimpleData>
 	</SchemaData></ExtendedData>
@@ -600,7 +600,7 @@
 </Folder>
 <Folder><name>ISLAS_SANTA_INES_BAJA_CALIFORNIA_SUR</name>
   <Placemark>
-	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>1</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#ISLAS_SANTA_INES_BAJA_CALIFORNIA_SUR">
 		<SimpleData name="visibility">1</SimpleData>
 	</SchemaData></ExtendedData>
@@ -609,7 +609,7 @@
 </Folder>
 <Folder><name>TLAXCALA</name>
   <Placemark>
-	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>1</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#TLAXCALA">
 		<SimpleData name="visibility">1</SimpleData>
 	</SchemaData></ExtendedData>
@@ -618,7 +618,7 @@
 </Folder>
 <Folder><name>CAYO_NORTE_QUINTANA_ROO</name>
   <Placemark>
-	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>1</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#CAYO_NORTE_QUINTANA_ROO">
 		<SimpleData name="visibility">1</SimpleData>
 	</SchemaData></ExtendedData>
@@ -627,7 +627,7 @@
 </Folder>
 <Folder><name>ISLA_CRECIENTE_BAJA_CALIFORNIA_SUR</name>
   <Placemark>
-	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>1</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#ISLA_CRECIENTE_BAJA_CALIFORNIA_SUR">
 		<SimpleData name="visibility">1</SimpleData>
 	</SchemaData></ExtendedData>
@@ -636,7 +636,7 @@
 </Folder>
 <Folder><name>ISLA_MARIA_CLEOFAS_NAYARIT</name>
   <Placemark>
-	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>1</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#ISLA_MARIA_CLEOFAS_NAYARIT">
 		<SimpleData name="visibility">1</SimpleData>
 	</SchemaData></ExtendedData>
@@ -645,7 +645,7 @@
 </Folder>
 <Folder><name>ISLA_SAN_JOSE_BAJA_CALIFORNIA_SUR</name>
   <Placemark>
-	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>1</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#ISLA_SAN_JOSE_BAJA_CALIFORNIA_SUR">
 		<SimpleData name="visibility">1</SimpleData>
 	</SchemaData></ExtendedData>
@@ -654,7 +654,7 @@
 </Folder>
 <Folder><name>ISLA_TORTUGA_BAJA_CALIFORNIA_SUR</name>
   <Placemark>
-	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>1</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#ISLA_TORTUGA_BAJA_CALIFORNIA_SUR">
 		<SimpleData name="visibility">1</SimpleData>
 	</SchemaData></ExtendedData>
@@ -663,7 +663,7 @@
 </Folder>
 <Folder><name>SONORA</name>
   <Placemark>
-	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>1</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#SONORA">
 		<SimpleData name="visibility">1</SimpleData>
 	</SchemaData></ExtendedData>
@@ -672,7 +672,7 @@
 </Folder>
 <Folder><name>CAYO_CENTRO_QUINTANA_ROO</name>
   <Placemark>
-	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>1</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#CAYO_CENTRO_QUINTANA_ROO">
 		<SimpleData name="visibility">1</SimpleData>
 	</SchemaData></ExtendedData>
@@ -681,7 +681,7 @@
 </Folder>
 <Folder><name>ISLA_CLARION_BAJA_CALIFORNIA_SUR</name>
   <Placemark>
-	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>1</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#ISLA_CLARION_BAJA_CALIFORNIA_SUR">
 		<SimpleData name="visibility">1</SimpleData>
 	</SchemaData></ExtendedData>
@@ -690,7 +690,7 @@
 </Folder>
 <Folder><name>ISLA_LA_PARFIDA_BAJA_CALIFORNIA_SUR</name>
   <Placemark>
-	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>1</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#ISLA_LA_PARFIDA_BAJA_CALIFORNIA_SUR">
 		<SimpleData name="visibility">1</SimpleData>
 	</SchemaData></ExtendedData>
@@ -699,7 +699,7 @@
 </Folder>
 <Folder><name>ISLA_SAN_ESTEBAN_SONORA</name>
   <Placemark>
-	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>1</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#ISLA_SAN_ESTEBAN_SONORA">
 		<SimpleData name="visibility">1</SimpleData>
 	</SchemaData></ExtendedData>
@@ -708,7 +708,7 @@
 </Folder>
 <Folder><name>ISLA_SOCORRO_BAJA_CALIFORNIA_SUR</name>
   <Placemark>
-	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>1</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#ISLA_SOCORRO_BAJA_CALIFORNIA_SUR">
 		<SimpleData name="visibility">1</SimpleData>
 	</SchemaData></ExtendedData>
@@ -717,7 +717,7 @@
 </Folder>
 <Folder><name>QUINTANA_ROO</name>
   <Placemark>
-	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>1</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#QUINTANA_ROO">
 		<SimpleData name="visibility">1</SimpleData>
 	</SchemaData></ExtendedData>
@@ -726,7 +726,7 @@
 </Folder>
 <Folder><name>BAJA_CALIFORNIA</name>
   <Placemark>
-	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>1</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#BAJA_CALIFORNIA">
 		<SimpleData name="visibility">1</SimpleData>
 	</SchemaData></ExtendedData>
@@ -735,7 +735,7 @@
 </Folder>
 <Folder><name>ISLA_CARMEN_BAJA_CALIFORNIA_SUR</name>
   <Placemark>
-	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>1</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#ISLA_CARMEN_BAJA_CALIFORNIA_SUR">
 		<SimpleData name="visibility">1</SimpleData>
 	</SchemaData></ExtendedData>
@@ -744,7 +744,7 @@
 </Folder>
 <Folder><name>ISLA_ESTANQUE_BAJA_CALIFORNIA</name>
   <Placemark>
-	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>1</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#ISLA_ESTANQUE_BAJA_CALIFORNIA">
 		<SimpleData name="visibility">1</SimpleData>
 	</SchemaData></ExtendedData>
@@ -753,7 +753,7 @@
 </Folder>
 <Folder><name>ISLA_ROCA_PARTIDA_BAJA_CALIFORNIA_SUR</name>
   <Placemark>
-	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>1</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#ISLA_ROCA_PARTIDA_BAJA_CALIFORNIA_SUR">
 		<SimpleData name="visibility">1</SimpleData>
 	</SchemaData></ExtendedData>
@@ -762,7 +762,7 @@
 </Folder>
 <Folder><name>ISLA_SANTA_MARGARITA_BAJA_CALIFORNIA_SUR</name>
   <Placemark>
-	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>1</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#ISLA_SANTA_MARGARITA_BAJA_CALIFORNIA_SUR">
 		<SimpleData name="visibility">1</SimpleData>
 	</SchemaData></ExtendedData>
@@ -771,7 +771,7 @@
 </Folder>
 <Folder><name>OAXACA</name>
   <Placemark>
-	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>1</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#OAXACA">
 		<SimpleData name="visibility">1</SimpleData>
 	</SchemaData></ExtendedData>
@@ -780,7 +780,7 @@
 </Folder>
 <Folder><name>ARRECIFE_MEDIO_VERACRUZ</name>
   <Placemark>
-	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>1</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#ARRECIFE_MEDIO_VERACRUZ">
 		<SimpleData name="visibility">1</SimpleData>
 	</SchemaData></ExtendedData>
@@ -789,7 +789,7 @@
 </Folder>
 <Folder><name>GUERRERO</name>
   <Placemark>
-	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>1</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#GUERRERO">
 		<SimpleData name="visibility">1</SimpleData>
 	</SchemaData></ExtendedData>
@@ -798,7 +798,7 @@
 </Folder>
 <Folder><name>ISLA_DEL_CARMEN_CAMPECHE</name>
   <Placemark>
-	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>1</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#ISLA_DEL_CARMEN_CAMPECHE">
 		<SimpleData name="visibility">1</SimpleData>
 	</SchemaData></ExtendedData>
@@ -807,7 +807,7 @@
 </Folder>
 <Folder><name>ISLA_PAJAROS_VERACRUZ</name>
   <Placemark>
-	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>1</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#ISLA_PAJAROS_VERACRUZ">
 		<SimpleData name="visibility">1</SimpleData>
 	</SchemaData></ExtendedData>
@@ -816,7 +816,7 @@
 </Folder>
 <Folder><name>ISLA_SAN_PEDRO_NOLASCO_SONORA</name>
   <Placemark>
-	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>1</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#ISLA_SAN_PEDRO_NOLASCO_SONORA">
 		<SimpleData name="visibility">1</SimpleData>
 	</SchemaData></ExtendedData>
@@ -825,7 +825,7 @@
 </Folder>
 <Folder><name>MORELOS</name>
   <Placemark>
-	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>1</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#MORELOS">
 		<SimpleData name="visibility">1</SimpleData>
 	</SchemaData></ExtendedData>
@@ -834,7 +834,7 @@
 </Folder>
 <Folder><name>AGUASCALIENTES</name>
   <Placemark>
-	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>1</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#AGUASCALIENTES">
 		<SimpleData name="visibility">1</SimpleData>
 	</SchemaData></ExtendedData>
@@ -843,7 +843,7 @@
 </Folder>
 <Folder><name>COLIMA</name>
   <Placemark>
-	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>1</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#COLIMA">
 		<SimpleData name="visibility">1</SimpleData>
 	</SchemaData></ExtendedData>
@@ -852,7 +852,7 @@
 </Folder>
 <Folder><name>ISLA_DE_LOBOS_VERACRUZ</name>
   <Placemark>
-	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>1</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#ISLA_DE_LOBOS_VERACRUZ">
 		<SimpleData name="visibility">1</SimpleData>
 	</SchemaData></ExtendedData>
@@ -861,7 +861,7 @@
 </Folder>
 <Folder><name>ISLA_MONSERRAT_BAJA_CALIFORNIA_SUR</name>
   <Placemark>
-	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>1</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#ISLA_MONSERRAT_BAJA_CALIFORNIA_SUR">
 		<SimpleData name="visibility">1</SimpleData>
 	</SchemaData></ExtendedData>
@@ -870,7 +870,7 @@
 </Folder>
 <Folder><name>ISLA_SAN_MARCOS_BAJA_CALIFORNIA_SUR</name>
   <Placemark>
-	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>1</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#ISLA_SAN_MARCOS_BAJA_CALIFORNIA_SUR">
 		<SimpleData name="visibility">1</SimpleData>
 	</SchemaData></ExtendedData>
@@ -879,7 +879,7 @@
 </Folder>
 <Folder><name>JALISCO</name>
   <Placemark>
-	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>1</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#JALISCO">
 		<SimpleData name="visibility">1</SimpleData>
 	</SchemaData></ExtendedData>
@@ -888,7 +888,7 @@
 </Folder>
 <Folder><name>VERACRUZ</name>
   <Placemark>
-	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>1</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#VERACRUZ">
 		<SimpleData name="visibility">1</SimpleData>
 	</SchemaData></ExtendedData>
