@@ -1,17 +1,16 @@
-<?xml version="1.0" encoding="utf-8"?><kml xmlns="http://earth.google.com/kml/2.1"><Folder><description><![CDATA[1 Items from Layer Capa_brick_2220_demo]]></description><Placemark><name><![CDATA[MapInfo Saved Objects]]></name><description><![CDATA[<br><br><br>
-    <table border="1" padding="0">
-      <tr><td>MUNICIPIO</td><td>GUADALAJARA</td></tr>
-      <tr><td>ESTADO</td><td>JALISCO</td></tr>
-      <tr><td>Brick</td><td>15001043</td></tr>
-      <tr><td>Nombre_Brick</td><td>GDA. CIRCUNVA AMERICAS CP4463</td></tr>
-      <tr><td>Dtto</td><td>0401 - D5111</td></tr>
-      <tr><td>Ruta</td><td>04010001 - 5111C111</td></tr>
-      <tr><td>MEDICOS</td><td>4</td></tr>
-      <tr><td>Uni_Merc</td><td>23483</td></tr>
-      <tr><td>Val_Merc</td><td>3861303.46</td></tr>
-      <tr><td>Uni_PRODU</td><td>7988</td></tr>
-      <tr><td>Val_PRODU</td><td>826397.69</td></tr>
-        ]]></description><visibility>1</visibility><open>0</open><Style><LineStyle><color>FFFF0000</color><width>1.5</width></LineStyle><PolyStyle><fill>0</fill><outline>1</outline></PolyStyle></Style><Polygon><extrude>1</extrude><altitudeMode>clampToGround</altitudeMode><tessellate>1</tessellate><outerBoundaryIs><LinearRing><coordinates>
+﻿<?xml version="1.0" encoding="utf-8"?><kml xmlns="http://earth.google.com/kml/2.1">
+<Document id="root_doc">
+<Schema name="CHIAPAS" id="CHIAPAS">
+	<SimpleField name="visibility" type="int"></SimpleField>
+</Schema>
+<Folder><description>test</description><Placemark>
+<name>test</name>
+<description>test</description>
+<visibility>1</visibility>
+<open>0</open>
+<Style><LineStyle><color>ffff0000</color>
+<width>1.5</width>
+</LineStyle><PolyStyle><fill>0</fill><outline>1</outline></PolyStyle></Style><Polygon><extrude>1</extrude><altitudeMode>clampToGround</altitudeMode><tessellate>1</tessellate><outerBoundaryIs><LinearRing><coordinates>
               -103.373253,20.696018,0
               -103.373313,20.696456,0
               -103.373508,20.69683,0
