@@ -96,7 +96,7 @@
 </Folder>
 <Folder><name>ISLA_TIBURON_SONORA</name>
   <Placemark>
-	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>1</fill></PolyStyle></Style>
+	<Style><LineStyle><color>#118DFF</color><width>10</width></LineStyle><PolyStyle><fill>1</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#ISLA_TIBURON_SONORA">
 		<SimpleData name="visibility">1</SimpleData>
 	</SchemaData></ExtendedData>
