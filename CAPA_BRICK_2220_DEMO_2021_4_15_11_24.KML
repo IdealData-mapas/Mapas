@@ -3,15 +3,13 @@
 <Schema name="CHIAPAS" id="CHIAPAS">
 	<SimpleField name="visibility" type="int"></SimpleField>
 </Schema>
-<Folder><description>test</description><Placemark>
-<name>test</name>
-<description>test</description>
-<visibility>1</visibility>
-<open>0</open>
-<Style><LineStyle><color>ffff0000</color>
-<width>1.5</width>
-</LineStyle><PolyStyle><fill>0</fill><outline>1</outline></PolyStyle></Style><Polygon><extrude>1</extrude><altitudeMode>clampToGround</altitudeMode><tessellate>1</tessellate><outerBoundaryIs><LinearRing><coordinates>
-              -103.373253,20.696018,0
+<Folder><name>CHIAPAS</name>
+  <Placemark>
+	<Style><LineStyle><color>00ff00ff</color></LineStyle><PolyStyle><fill>1</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#CHIAPAS">
+		<SimpleData name="visibility">1</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>-103.373253,20.696018,0
               -103.373313,20.696456,0
               -103.373508,20.69683,0
               -103.374333,20.698413,0
@@ -138,5 +136,8 @@
               -103.373282,20.696007,0
               -103.373273,20.696011,0
               -103.373263,20.696015,0
-              -103.373253,20.696018,0
-            </coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark></Folder></kml>
+              -103.373253,20.696018,0</coordinates></LineString></MultiGeometry>
+  </Placemark>
+</Folder>
+              
+         </Document></kml>
