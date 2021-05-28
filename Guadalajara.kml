@@ -27,7 +27,7 @@
         </description>
 	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#Guadalajara">
-		<SimpleData name="stroke">#0000FF</SimpleData>
+		<SimpleData name="stroke">#FF0000</SimpleData>
 		<SimpleData name="stroke-opacity">1</SimpleData>
 		<SimpleData name="stroke-width">1.5</SimpleData>
 		<SimpleData name="fill-opacity">0</SimpleData>
@@ -43,8 +43,8 @@
       &lt;tr&gt;&lt;td&gt;ESTADO&lt;/td&gt;&lt;td&gt;JALISCO&lt;/td&gt;&lt;/tr&gt;
       &lt;tr&gt;&lt;td&gt;Brick&lt;/td&gt;&lt;td&gt;15004029&lt;/td&gt;&lt;/tr&gt;
       &lt;tr&gt;&lt;td&gt;Nombre_Brick&lt;/td&gt;&lt;td&gt;GDA.ARREGUI FRESNO PTE CP4490&lt;/td&gt;&lt;/tr&gt;
-      &lt;tr&gt;&lt;td&gt;Dtto&lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;/tr&gt;
-      &lt;tr&gt;&lt;td&gt;Ruta&lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;/tr&gt;
+      &lt;tr&gt;&lt;td&gt;Dtto&lt;/td&gt;&lt;td&gt;0404 - D5114&lt;/td&gt;&lt;/tr&gt;
+      &lt;tr&gt;&lt;td&gt;Ruta&lt;/td&gt;&lt;td&gt;04040001 - 5114C111&lt;/td&gt;&lt;/tr&gt;
       &lt;tr&gt;&lt;td&gt;MEDICOS&lt;/td&gt;&lt;td&gt;1&lt;/td&gt;&lt;/tr&gt;
       &lt;tr&gt;&lt;td&gt;Uni_Merc&lt;/td&gt;&lt;td&gt;0&lt;/td&gt;&lt;/tr&gt;
       &lt;tr&gt;&lt;td&gt;Val_Merc&lt;/td&gt;&lt;td&gt;0&lt;/td&gt;&lt;/tr&gt;
@@ -53,7 +53,7 @@
         </description>
 	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#Guadalajara">
-		<SimpleData name="stroke">#0000FF</SimpleData>
+		<SimpleData name="stroke">#008000</SimpleData>
 		<SimpleData name="stroke-opacity">1</SimpleData>
 		<SimpleData name="stroke-width">1.5</SimpleData>
 		<SimpleData name="fill-opacity">0</SimpleData>
@@ -79,7 +79,7 @@
         </description>
 	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#Guadalajara">
-		<SimpleData name="stroke">#0000FF</SimpleData>
+		<SimpleData name="stroke">#008000</SimpleData>
 		<SimpleData name="stroke-opacity">1</SimpleData>
 		<SimpleData name="stroke-width">1.5</SimpleData>
 		<SimpleData name="fill-opacity">0</SimpleData>
@@ -105,7 +105,7 @@
         </description>
 	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#Guadalajara">
-		<SimpleData name="stroke">#0000FF</SimpleData>
+		<SimpleData name="stroke">#008000</SimpleData>
 		<SimpleData name="stroke-opacity">1</SimpleData>
 		<SimpleData name="stroke-width">1.5</SimpleData>
 		<SimpleData name="fill-opacity">0</SimpleData>
@@ -131,7 +131,7 @@
         </description>
 	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#Guadalajara">
-		<SimpleData name="stroke">#0000FF</SimpleData>
+		<SimpleData name="stroke">#008000</SimpleData>
 		<SimpleData name="stroke-opacity">1</SimpleData>
 		<SimpleData name="stroke-width">1.5</SimpleData>
 		<SimpleData name="fill-opacity">0</SimpleData>
@@ -157,7 +157,7 @@
         </description>
 	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#Guadalajara">
-		<SimpleData name="stroke">#0000FF</SimpleData>
+		<SimpleData name="stroke">#008000</SimpleData>
 		<SimpleData name="stroke-opacity">1</SimpleData>
 		<SimpleData name="stroke-width">1.5</SimpleData>
 		<SimpleData name="fill-opacity">0</SimpleData>
@@ -183,7 +183,7 @@
         </description>
 	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#Guadalajara">
-		<SimpleData name="stroke">#0000FF</SimpleData>
+		<SimpleData name="stroke">#008000</SimpleData>
 		<SimpleData name="stroke-opacity">1</SimpleData>
 		<SimpleData name="stroke-width">1.5</SimpleData>
 		<SimpleData name="fill-opacity">0</SimpleData>
@@ -209,7 +209,7 @@
         </description>
 	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#Guadalajara">
-		<SimpleData name="stroke">#0000FF</SimpleData>
+		<SimpleData name="stroke">#008000</SimpleData>
 		<SimpleData name="stroke-opacity">1</SimpleData>
 		<SimpleData name="stroke-width">1.5</SimpleData>
 		<SimpleData name="fill-opacity">0</SimpleData>
@@ -234,7 +234,7 @@
       &lt;tr&gt;&lt;td&gt;Val_PRODU&lt;/td&gt;&lt;td&gt;532227.56&lt;/td&gt;&lt;/tr&gt;
         </description>
 	<ExtendedData><SchemaData schemaUrl="#Guadalajara">
-		<SimpleData name="stroke">#0000FF</SimpleData>
+		<SimpleData name="stroke">#FF0000</SimpleData>
 		<SimpleData name="stroke-opacity">1</SimpleData>
 		<SimpleData name="stroke-width">1.5</SimpleData>
 		<SimpleData name="fill-opacity">0</SimpleData>
@@ -258,9 +258,9 @@
       &lt;tr&gt;&lt;td&gt;Uni_PRODU&lt;/td&gt;&lt;td&gt;8774&lt;/td&gt;&lt;/tr&gt;
       &lt;tr&gt;&lt;td&gt;Val_PRODU&lt;/td&gt;&lt;td&gt;1194745.04&lt;/td&gt;&lt;/tr&gt;
         </description>
-	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<Style><LineStyle><color>00ff00ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#Guadalajara">
-		<SimpleData name="stroke">#0000FF</SimpleData>
+		<SimpleData name="stroke">#FFFF00</SimpleData>
 		<SimpleData name="stroke-opacity">1</SimpleData>
 		<SimpleData name="stroke-width">1.5</SimpleData>
 		<SimpleData name="fill-opacity">0</SimpleData>
@@ -413,9 +413,9 @@
       &lt;tr&gt;&lt;td&gt;Uni_PRODU&lt;/td&gt;&lt;td&gt;93&lt;/td&gt;&lt;/tr&gt;
       &lt;tr&gt;&lt;td&gt;Val_PRODU&lt;/td&gt;&lt;td&gt;10310.06&lt;/td&gt;&lt;/tr&gt;
         </description>
-	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<Style><LineStyle><color>00ff00ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#Guadalajara">
-		<SimpleData name="stroke">#0000FF</SimpleData>
+		<SimpleData name="stroke">#FFFF00</SimpleData>
 		<SimpleData name="stroke-opacity">1</SimpleData>
 		<SimpleData name="stroke-width">1.5</SimpleData>
 		<SimpleData name="fill-opacity">0</SimpleData>
@@ -439,9 +439,9 @@
       &lt;tr&gt;&lt;td&gt;Uni_PRODU&lt;/td&gt;&lt;td&gt;15&lt;/td&gt;&lt;/tr&gt;
       &lt;tr&gt;&lt;td&gt;Val_PRODU&lt;/td&gt;&lt;td&gt;1490.54&lt;/td&gt;&lt;/tr&gt;
         </description>
-	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<Style><LineStyle><color>00ff00ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#Guadalajara">
-		<SimpleData name="stroke">#0000FF</SimpleData>
+		<SimpleData name="stroke">#FFFF00</SimpleData>
 		<SimpleData name="stroke-opacity">1</SimpleData>
 		<SimpleData name="stroke-width">1.5</SimpleData>
 		<SimpleData name="fill-opacity">0</SimpleData>
@@ -465,9 +465,9 @@
       &lt;tr&gt;&lt;td&gt;Uni_PRODU&lt;/td&gt;&lt;td&gt;1170&lt;/td&gt;&lt;/tr&gt;
       &lt;tr&gt;&lt;td&gt;Val_PRODU&lt;/td&gt;&lt;td&gt;124516.51&lt;/td&gt;&lt;/tr&gt;
         </description>
-	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<Style><LineStyle><color>00ff00ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#Guadalajara">
-		<SimpleData name="stroke">#0000FF</SimpleData>
+		<SimpleData name="stroke">#FFFF00</SimpleData>
 		<SimpleData name="stroke-opacity">1</SimpleData>
 		<SimpleData name="stroke-width">1.5</SimpleData>
 		<SimpleData name="fill-opacity">0</SimpleData>
@@ -491,9 +491,9 @@
       &lt;tr&gt;&lt;td&gt;Uni_PRODU&lt;/td&gt;&lt;td&gt;2569&lt;/td&gt;&lt;/tr&gt;
       &lt;tr&gt;&lt;td&gt;Val_PRODU&lt;/td&gt;&lt;td&gt;289808.16&lt;/td&gt;&lt;/tr&gt;
         </description>
-	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<Style><LineStyle><color>00ff00ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#Guadalajara">
-		<SimpleData name="stroke">#0000FF</SimpleData>
+		<SimpleData name="stroke">#FFFF00</SimpleData>
 		<SimpleData name="stroke-opacity">1</SimpleData>
 		<SimpleData name="stroke-width">1.5</SimpleData>
 		<SimpleData name="fill-opacity">0</SimpleData>
@@ -517,9 +517,9 @@
       &lt;tr&gt;&lt;td&gt;Uni_PRODU&lt;/td&gt;&lt;td&gt;1720&lt;/td&gt;&lt;/tr&gt;
       &lt;tr&gt;&lt;td&gt;Val_PRODU&lt;/td&gt;&lt;td&gt;181877.93&lt;/td&gt;&lt;/tr&gt;
         </description>
-	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<Style><LineStyle><color>00ff00ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#Guadalajara">
-		<SimpleData name="stroke">#0000FF</SimpleData>
+		<SimpleData name="stroke">#FFFF00</SimpleData>
 		<SimpleData name="stroke-opacity">1</SimpleData>
 		<SimpleData name="stroke-width">1.5</SimpleData>
 		<SimpleData name="fill-opacity">0</SimpleData>
@@ -535,8 +535,8 @@
       &lt;tr&gt;&lt;td&gt;ESTADO&lt;/td&gt;&lt;td&gt;JALISCO&lt;/td&gt;&lt;/tr&gt;
       &lt;tr&gt;&lt;td&gt;Brick&lt;/td&gt;&lt;td&gt;15003017&lt;/td&gt;&lt;/tr&gt;
       &lt;tr&gt;&lt;td&gt;Nombre_Brick&lt;/td&gt;&lt;td&gt;GDA.BELISARIO M. ATHOS CP4437&lt;/td&gt;&lt;/tr&gt;
-      &lt;tr&gt;&lt;td&gt;Dtto&lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;/tr&gt;
-      &lt;tr&gt;&lt;td&gt;Ruta&lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;/tr&gt;
+      &lt;tr&gt;&lt;td&gt;Dtto&lt;/td&gt;&lt;td&gt;0402 - D5112&lt;/td&gt;&lt;/tr&gt;
+      &lt;tr&gt;&lt;td&gt;Ruta&lt;/td&gt;&lt;td&gt;04020001 - 5112C111&lt;/td&gt;&lt;/tr&gt;
       &lt;tr&gt;&lt;td&gt;MEDICOS&lt;/td&gt;&lt;td&gt;0&lt;/td&gt;&lt;/tr&gt;
       &lt;tr&gt;&lt;td&gt;Uni_Merc&lt;/td&gt;&lt;td&gt;0&lt;/td&gt;&lt;/tr&gt;
       &lt;tr&gt;&lt;td&gt;Val_Merc&lt;/td&gt;&lt;td&gt;0&lt;/td&gt;&lt;/tr&gt;
@@ -545,7 +545,7 @@
         </description>
 	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#Guadalajara">
-		<SimpleData name="stroke">#0000FF</SimpleData>
+		<SimpleData name="stroke">#FFFF00</SimpleData>
 		<SimpleData name="stroke-opacity">1</SimpleData>
 		<SimpleData name="stroke-width">1.5</SimpleData>
 		<SimpleData name="fill-opacity">0</SimpleData>
@@ -569,9 +569,9 @@
       &lt;tr&gt;&lt;td&gt;Uni_PRODU&lt;/td&gt;&lt;td&gt;3791&lt;/td&gt;&lt;/tr&gt;
       &lt;tr&gt;&lt;td&gt;Val_PRODU&lt;/td&gt;&lt;td&gt;429728.51&lt;/td&gt;&lt;/tr&gt;
         </description>
-	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<Style><LineStyle><color>00ff00ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#Guadalajara">
-		<SimpleData name="stroke">#0000FF</SimpleData>
+		<SimpleData name="stroke">#FFFF00</SimpleData>
 		<SimpleData name="stroke-opacity">1</SimpleData>
 		<SimpleData name="stroke-width">1.5</SimpleData>
 		<SimpleData name="fill-opacity">0</SimpleData>
@@ -595,9 +595,9 @@
       &lt;tr&gt;&lt;td&gt;Uni_PRODU&lt;/td&gt;&lt;td&gt;421&lt;/td&gt;&lt;/tr&gt;
       &lt;tr&gt;&lt;td&gt;Val_PRODU&lt;/td&gt;&lt;td&gt;46743.78&lt;/td&gt;&lt;/tr&gt;
         </description>
-	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<Style><LineStyle><color>00ff00ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#Guadalajara">
-		<SimpleData name="stroke">#0000FF</SimpleData>
+		<SimpleData name="stroke">#FFFF00</SimpleData>
 		<SimpleData name="stroke-opacity">1</SimpleData>
 		<SimpleData name="stroke-width">1.5</SimpleData>
 		<SimpleData name="fill-opacity">0</SimpleData>
@@ -622,7 +622,7 @@
       &lt;tr&gt;&lt;td&gt;Val_PRODU&lt;/td&gt;&lt;td&gt;69273.91&lt;/td&gt;&lt;/tr&gt;
         </description>
 	<ExtendedData><SchemaData schemaUrl="#Guadalajara">
-		<SimpleData name="stroke">#0000FF</SimpleData>
+		<SimpleData name="stroke">#008000</SimpleData>
 		<SimpleData name="stroke-opacity">1</SimpleData>
 		<SimpleData name="stroke-width">1.5</SimpleData>
 		<SimpleData name="fill-opacity">0</SimpleData>
@@ -646,9 +646,9 @@
       &lt;tr&gt;&lt;td&gt;Uni_PRODU&lt;/td&gt;&lt;td&gt;1536.8&lt;/td&gt;&lt;/tr&gt;
       &lt;tr&gt;&lt;td&gt;Val_PRODU&lt;/td&gt;&lt;td&gt;215621.84&lt;/td&gt;&lt;/tr&gt;
         </description>
-	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<Style><LineStyle><color>00ff00ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#Guadalajara">
-		<SimpleData name="stroke">#0000FF</SimpleData>
+		<SimpleData name="stroke">#FFFF00</SimpleData>
 		<SimpleData name="stroke-opacity">1</SimpleData>
 		<SimpleData name="stroke-width">1.5</SimpleData>
 		<SimpleData name="fill-opacity">0</SimpleData>
@@ -672,9 +672,9 @@
       &lt;tr&gt;&lt;td&gt;Uni_PRODU&lt;/td&gt;&lt;td&gt;16896&lt;/td&gt;&lt;/tr&gt;
       &lt;tr&gt;&lt;td&gt;Val_PRODU&lt;/td&gt;&lt;td&gt;2371277.74&lt;/td&gt;&lt;/tr&gt;
         </description>
-	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<Style><LineStyle><color>00ff00ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#Guadalajara">
-		<SimpleData name="stroke">#0000FF</SimpleData>
+		<SimpleData name="stroke">#FFFF00</SimpleData>
 		<SimpleData name="stroke-opacity">1</SimpleData>
 		<SimpleData name="stroke-width">1.5</SimpleData>
 		<SimpleData name="fill-opacity">0</SimpleData>
@@ -698,9 +698,9 @@
       &lt;tr&gt;&lt;td&gt;Uni_PRODU&lt;/td&gt;&lt;td&gt;2490&lt;/td&gt;&lt;/tr&gt;
       &lt;tr&gt;&lt;td&gt;Val_PRODU&lt;/td&gt;&lt;td&gt;259473.25&lt;/td&gt;&lt;/tr&gt;
         </description>
-	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<Style><LineStyle><color>00ff00ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#Guadalajara">
-		<SimpleData name="stroke">#0000FF</SimpleData>
+		<SimpleData name="stroke">#FFFF00</SimpleData>
 		<SimpleData name="stroke-opacity">1</SimpleData>
 		<SimpleData name="stroke-width">1.5</SimpleData>
 		<SimpleData name="fill-opacity">0</SimpleData>
@@ -724,9 +724,9 @@
       &lt;tr&gt;&lt;td&gt;Uni_PRODU&lt;/td&gt;&lt;td&gt;7705&lt;/td&gt;&lt;/tr&gt;
       &lt;tr&gt;&lt;td&gt;Val_PRODU&lt;/td&gt;&lt;td&gt;828022.63&lt;/td&gt;&lt;/tr&gt;
         </description>
-	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<Style><LineStyle><color>00ff00ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#Guadalajara">
-		<SimpleData name="stroke">#0000FF</SimpleData>
+		<SimpleData name="stroke">#FFFF00</SimpleData>
 		<SimpleData name="stroke-opacity">1</SimpleData>
 		<SimpleData name="stroke-width">1.5</SimpleData>
 		<SimpleData name="fill-opacity">0</SimpleData>
@@ -750,9 +750,9 @@
       &lt;tr&gt;&lt;td&gt;Uni_PRODU&lt;/td&gt;&lt;td&gt;6000.5&lt;/td&gt;&lt;/tr&gt;
       &lt;tr&gt;&lt;td&gt;Val_PRODU&lt;/td&gt;&lt;td&gt;768209.02&lt;/td&gt;&lt;/tr&gt;
         </description>
-	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<Style><LineStyle><color>00ff00ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#Guadalajara">
-		<SimpleData name="stroke">#0000FF</SimpleData>
+		<SimpleData name="stroke">#FFFF00</SimpleData>
 		<SimpleData name="stroke-opacity">1</SimpleData>
 		<SimpleData name="stroke-width">1.5</SimpleData>
 		<SimpleData name="fill-opacity">0</SimpleData>
@@ -776,9 +776,9 @@
       &lt;tr&gt;&lt;td&gt;Uni_PRODU&lt;/td&gt;&lt;td&gt;4490&lt;/td&gt;&lt;/tr&gt;
       &lt;tr&gt;&lt;td&gt;Val_PRODU&lt;/td&gt;&lt;td&gt;593234.98&lt;/td&gt;&lt;/tr&gt;
         </description>
-	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<Style><LineStyle><color>00ff00ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#Guadalajara">
-		<SimpleData name="stroke">#0000FF</SimpleData>
+		<SimpleData name="stroke">#FFFF00</SimpleData>
 		<SimpleData name="stroke-opacity">1</SimpleData>
 		<SimpleData name="stroke-width">1.5</SimpleData>
 		<SimpleData name="fill-opacity">0</SimpleData>
@@ -802,9 +802,9 @@
       &lt;tr&gt;&lt;td&gt;Uni_PRODU&lt;/td&gt;&lt;td&gt;2027&lt;/td&gt;&lt;/tr&gt;
       &lt;tr&gt;&lt;td&gt;Val_PRODU&lt;/td&gt;&lt;td&gt;238388.5&lt;/td&gt;&lt;/tr&gt;
         </description>
-	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<Style><LineStyle><color>00ff00ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#Guadalajara">
-		<SimpleData name="stroke">#0000FF</SimpleData>
+		<SimpleData name="stroke">#FFFF00</SimpleData>
 		<SimpleData name="stroke-opacity">1</SimpleData>
 		<SimpleData name="stroke-width">1.5</SimpleData>
 		<SimpleData name="fill-opacity">0</SimpleData>
@@ -828,9 +828,9 @@
       &lt;tr&gt;&lt;td&gt;Uni_PRODU&lt;/td&gt;&lt;td&gt;906&lt;/td&gt;&lt;/tr&gt;
       &lt;tr&gt;&lt;td&gt;Val_PRODU&lt;/td&gt;&lt;td&gt;95639.99&lt;/td&gt;&lt;/tr&gt;
         </description>
-	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<Style><LineStyle><color>00ff00ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#Guadalajara">
-		<SimpleData name="stroke">#0000FF</SimpleData>
+		<SimpleData name="stroke">#FFFF00</SimpleData>
 		<SimpleData name="stroke-opacity">1</SimpleData>
 		<SimpleData name="stroke-width">1.5</SimpleData>
 		<SimpleData name="fill-opacity">0</SimpleData>
@@ -854,9 +854,9 @@
       &lt;tr&gt;&lt;td&gt;Uni_PRODU&lt;/td&gt;&lt;td&gt;2675&lt;/td&gt;&lt;/tr&gt;
       &lt;tr&gt;&lt;td&gt;Val_PRODU&lt;/td&gt;&lt;td&gt;312395.45&lt;/td&gt;&lt;/tr&gt;
         </description>
-	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<Style><LineStyle><color>00ff00ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#Guadalajara">
-		<SimpleData name="stroke">#0000FF</SimpleData>
+		<SimpleData name="stroke">#FFFF00</SimpleData>
 		<SimpleData name="stroke-opacity">1</SimpleData>
 		<SimpleData name="stroke-width">1.5</SimpleData>
 		<SimpleData name="fill-opacity">0</SimpleData>
@@ -880,9 +880,9 @@
       &lt;tr&gt;&lt;td&gt;Uni_PRODU&lt;/td&gt;&lt;td&gt;675&lt;/td&gt;&lt;/tr&gt;
       &lt;tr&gt;&lt;td&gt;Val_PRODU&lt;/td&gt;&lt;td&gt;77798.48&lt;/td&gt;&lt;/tr&gt;
         </description>
-	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<Style><LineStyle><color>00ff00ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#Guadalajara">
-		<SimpleData name="stroke">#0000FF</SimpleData>
+		<SimpleData name="stroke">#FFFF00</SimpleData>
 		<SimpleData name="stroke-opacity">1</SimpleData>
 		<SimpleData name="stroke-width">1.5</SimpleData>
 		<SimpleData name="fill-opacity">0</SimpleData>
@@ -906,9 +906,9 @@
       &lt;tr&gt;&lt;td&gt;Uni_PRODU&lt;/td&gt;&lt;td&gt;569&lt;/td&gt;&lt;/tr&gt;
       &lt;tr&gt;&lt;td&gt;Val_PRODU&lt;/td&gt;&lt;td&gt;64151.41&lt;/td&gt;&lt;/tr&gt;
         </description>
-	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<Style><LineStyle><color>00ff00ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#Guadalajara">
-		<SimpleData name="stroke">#0000FF</SimpleData>
+		<SimpleData name="stroke">#FFFF00</SimpleData>
 		<SimpleData name="stroke-opacity">1</SimpleData>
 		<SimpleData name="stroke-width">1.5</SimpleData>
 		<SimpleData name="fill-opacity">0</SimpleData>
@@ -932,9 +932,9 @@
       &lt;tr&gt;&lt;td&gt;Uni_PRODU&lt;/td&gt;&lt;td&gt;3982&lt;/td&gt;&lt;/tr&gt;
       &lt;tr&gt;&lt;td&gt;Val_PRODU&lt;/td&gt;&lt;td&gt;474176.14&lt;/td&gt;&lt;/tr&gt;
         </description>
-	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<Style><LineStyle><color>00ff00ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#Guadalajara">
-		<SimpleData name="stroke">#0000FF</SimpleData>
+		<SimpleData name="stroke">#FFFF00</SimpleData>
 		<SimpleData name="stroke-opacity">1</SimpleData>
 		<SimpleData name="stroke-width">1.5</SimpleData>
 		<SimpleData name="fill-opacity">0</SimpleData>
@@ -958,9 +958,9 @@
       &lt;tr&gt;&lt;td&gt;Uni_PRODU&lt;/td&gt;&lt;td&gt;171&lt;/td&gt;&lt;/tr&gt;
       &lt;tr&gt;&lt;td&gt;Val_PRODU&lt;/td&gt;&lt;td&gt;24248.93&lt;/td&gt;&lt;/tr&gt;
         </description>
-	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<Style><LineStyle><color>00ff00ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#Guadalajara">
-		<SimpleData name="stroke">#0000FF</SimpleData>
+		<SimpleData name="stroke">#FFFF00</SimpleData>
 		<SimpleData name="stroke-opacity">1</SimpleData>
 		<SimpleData name="stroke-width">1.5</SimpleData>
 		<SimpleData name="fill-opacity">0</SimpleData>
@@ -984,9 +984,9 @@
       &lt;tr&gt;&lt;td&gt;Uni_PRODU&lt;/td&gt;&lt;td&gt;2387&lt;/td&gt;&lt;/tr&gt;
       &lt;tr&gt;&lt;td&gt;Val_PRODU&lt;/td&gt;&lt;td&gt;287635.57&lt;/td&gt;&lt;/tr&gt;
         </description>
-	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<Style><LineStyle><color>00ff00ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#Guadalajara">
-		<SimpleData name="stroke">#0000FF</SimpleData>
+		<SimpleData name="stroke">#FFFF00</SimpleData>
 		<SimpleData name="stroke-opacity">1</SimpleData>
 		<SimpleData name="stroke-width">1.5</SimpleData>
 		<SimpleData name="fill-opacity">0</SimpleData>
@@ -1010,9 +1010,9 @@
       &lt;tr&gt;&lt;td&gt;Uni_PRODU&lt;/td&gt;&lt;td&gt;718&lt;/td&gt;&lt;/tr&gt;
       &lt;tr&gt;&lt;td&gt;Val_PRODU&lt;/td&gt;&lt;td&gt;75924.36&lt;/td&gt;&lt;/tr&gt;
         </description>
-	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<Style><LineStyle><color>00ff00ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#Guadalajara">
-		<SimpleData name="stroke">#0000FF</SimpleData>
+		<SimpleData name="stroke">#FFFF00</SimpleData>
 		<SimpleData name="stroke-opacity">1</SimpleData>
 		<SimpleData name="stroke-width">1.5</SimpleData>
 		<SimpleData name="fill-opacity">0</SimpleData>
@@ -1036,9 +1036,9 @@
       &lt;tr&gt;&lt;td&gt;Uni_PRODU&lt;/td&gt;&lt;td&gt;633&lt;/td&gt;&lt;/tr&gt;
       &lt;tr&gt;&lt;td&gt;Val_PRODU&lt;/td&gt;&lt;td&gt;66774.48&lt;/td&gt;&lt;/tr&gt;
         </description>
-	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<Style><LineStyle><color>00ff00ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#Guadalajara">
-		<SimpleData name="stroke">#0000FF</SimpleData>
+		<SimpleData name="stroke">#FFFF00</SimpleData>
 		<SimpleData name="stroke-opacity">1</SimpleData>
 		<SimpleData name="stroke-width">1.5</SimpleData>
 		<SimpleData name="fill-opacity">0</SimpleData>
@@ -1062,9 +1062,9 @@
       &lt;tr&gt;&lt;td&gt;Uni_PRODU&lt;/td&gt;&lt;td&gt;1073&lt;/td&gt;&lt;/tr&gt;
       &lt;tr&gt;&lt;td&gt;Val_PRODU&lt;/td&gt;&lt;td&gt;122472.96&lt;/td&gt;&lt;/tr&gt;
         </description>
-	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<Style><LineStyle><color>00ff00ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#Guadalajara">
-		<SimpleData name="stroke">#0000FF</SimpleData>
+		<SimpleData name="stroke">#FFFF00</SimpleData>
 		<SimpleData name="stroke-opacity">1</SimpleData>
 		<SimpleData name="stroke-width">1.5</SimpleData>
 		<SimpleData name="fill-opacity">0</SimpleData>
@@ -1166,9 +1166,9 @@
       &lt;tr&gt;&lt;td&gt;Uni_PRODU&lt;/td&gt;&lt;td&gt;662&lt;/td&gt;&lt;/tr&gt;
       &lt;tr&gt;&lt;td&gt;Val_PRODU&lt;/td&gt;&lt;td&gt;76452.11&lt;/td&gt;&lt;/tr&gt;
         </description>
-	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<Style><LineStyle><color>00ff00ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#Guadalajara">
-		<SimpleData name="stroke">#0000FF</SimpleData>
+		<SimpleData name="stroke">#FFFF00</SimpleData>
 		<SimpleData name="stroke-opacity">1</SimpleData>
 		<SimpleData name="stroke-width">1.5</SimpleData>
 		<SimpleData name="fill-opacity">0</SimpleData>
@@ -1295,9 +1295,9 @@
       &lt;tr&gt;&lt;td&gt;Uni_PRODU&lt;/td&gt;&lt;td&gt;1536&lt;/td&gt;&lt;/tr&gt;
       &lt;tr&gt;&lt;td&gt;Val_PRODU&lt;/td&gt;&lt;td&gt;161537.7&lt;/td&gt;&lt;/tr&gt;
         </description>
-	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<Style><LineStyle><color>00ff00ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#Guadalajara">
-		<SimpleData name="stroke">#0000FF</SimpleData>
+		<SimpleData name="stroke">#FFFF00</SimpleData>
 		<SimpleData name="stroke-opacity">1</SimpleData>
 		<SimpleData name="stroke-width">1.5</SimpleData>
 		<SimpleData name="fill-opacity">0</SimpleData>
@@ -1321,9 +1321,9 @@
       &lt;tr&gt;&lt;td&gt;Uni_PRODU&lt;/td&gt;&lt;td&gt;1547&lt;/td&gt;&lt;/tr&gt;
       &lt;tr&gt;&lt;td&gt;Val_PRODU&lt;/td&gt;&lt;td&gt;157925.24&lt;/td&gt;&lt;/tr&gt;
         </description>
-	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<Style><LineStyle><color>00ff00ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#Guadalajara">
-		<SimpleData name="stroke">#0000FF</SimpleData>
+		<SimpleData name="stroke">#FFFF00</SimpleData>
 		<SimpleData name="stroke-opacity">1</SimpleData>
 		<SimpleData name="stroke-width">1.5</SimpleData>
 		<SimpleData name="fill-opacity">0</SimpleData>
@@ -1347,9 +1347,9 @@
       &lt;tr&gt;&lt;td&gt;Uni_PRODU&lt;/td&gt;&lt;td&gt;577&lt;/td&gt;&lt;/tr&gt;
       &lt;tr&gt;&lt;td&gt;Val_PRODU&lt;/td&gt;&lt;td&gt;62181.5&lt;/td&gt;&lt;/tr&gt;
         </description>
-	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<Style><LineStyle><color>00ff00ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#Guadalajara">
-		<SimpleData name="stroke">#0000FF</SimpleData>
+		<SimpleData name="stroke">#FFFF00</SimpleData>
 		<SimpleData name="stroke-opacity">1</SimpleData>
 		<SimpleData name="stroke-width">1.5</SimpleData>
 		<SimpleData name="fill-opacity">0</SimpleData>
@@ -1373,9 +1373,9 @@
       &lt;tr&gt;&lt;td&gt;Uni_PRODU&lt;/td&gt;&lt;td&gt;67&lt;/td&gt;&lt;/tr&gt;
       &lt;tr&gt;&lt;td&gt;Val_PRODU&lt;/td&gt;&lt;td&gt;6628.15&lt;/td&gt;&lt;/tr&gt;
         </description>
-	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<Style><LineStyle><color>00ff00ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#Guadalajara">
-		<SimpleData name="stroke">#0000FF</SimpleData>
+		<SimpleData name="stroke">#FFFF00</SimpleData>
 		<SimpleData name="stroke-opacity">1</SimpleData>
 		<SimpleData name="stroke-width">1.5</SimpleData>
 		<SimpleData name="fill-opacity">0</SimpleData>
@@ -1399,9 +1399,9 @@
       &lt;tr&gt;&lt;td&gt;Uni_PRODU&lt;/td&gt;&lt;td&gt;1954&lt;/td&gt;&lt;/tr&gt;
       &lt;tr&gt;&lt;td&gt;Val_PRODU&lt;/td&gt;&lt;td&gt;211665.16&lt;/td&gt;&lt;/tr&gt;
         </description>
-	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<Style><LineStyle><color>00ff00ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#Guadalajara">
-		<SimpleData name="stroke">#0000FF</SimpleData>
+		<SimpleData name="stroke">#FFFF00</SimpleData>
 		<SimpleData name="stroke-opacity">1</SimpleData>
 		<SimpleData name="stroke-width">1.5</SimpleData>
 		<SimpleData name="fill-opacity">0</SimpleData>
@@ -1425,8 +1425,9 @@
       &lt;tr&gt;&lt;td&gt;Uni_PRODU&lt;/td&gt;&lt;td&gt;2168&lt;/td&gt;&lt;/tr&gt;
       &lt;tr&gt;&lt;td&gt;Val_PRODU&lt;/td&gt;&lt;td&gt;250556.82&lt;/td&gt;&lt;/tr&gt;
         </description>
+<Style><LineStyle><color>00ff00ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#Guadalajara">
-		<SimpleData name="stroke">#0000FF</SimpleData>
+		<SimpleData name="stroke">#FFFF00</SimpleData>
 		<SimpleData name="stroke-opacity">1</SimpleData>
 		<SimpleData name="stroke-width">1.5</SimpleData>
 		<SimpleData name="fill-opacity">0</SimpleData>
@@ -1450,9 +1451,9 @@
       &lt;tr&gt;&lt;td&gt;Uni_PRODU&lt;/td&gt;&lt;td&gt;887&lt;/td&gt;&lt;/tr&gt;
       &lt;tr&gt;&lt;td&gt;Val_PRODU&lt;/td&gt;&lt;td&gt;97463.9&lt;/td&gt;&lt;/tr&gt;
         </description>
-	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<Style><LineStyle><color>00ff00ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#Guadalajara">
-		<SimpleData name="stroke">#0000FF</SimpleData>
+		<SimpleData name="stroke">#FFFF00</SimpleData>
 		<SimpleData name="stroke-opacity">1</SimpleData>
 		<SimpleData name="stroke-width">1.5</SimpleData>
 		<SimpleData name="fill-opacity">0</SimpleData>
@@ -1476,9 +1477,9 @@
       &lt;tr&gt;&lt;td&gt;Uni_PRODU&lt;/td&gt;&lt;td&gt;790&lt;/td&gt;&lt;/tr&gt;
       &lt;tr&gt;&lt;td&gt;Val_PRODU&lt;/td&gt;&lt;td&gt;83449.99&lt;/td&gt;&lt;/tr&gt;
         </description>
-	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<Style><LineStyle><color>00ff00ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#Guadalajara">
-		<SimpleData name="stroke">#0000FF</SimpleData>
+		<SimpleData name="stroke">#FFFF00</SimpleData>
 		<SimpleData name="stroke-opacity">1</SimpleData>
 		<SimpleData name="stroke-width">1.5</SimpleData>
 		<SimpleData name="fill-opacity">0</SimpleData>
@@ -1502,9 +1503,9 @@
       &lt;tr&gt;&lt;td&gt;Uni_PRODU&lt;/td&gt;&lt;td&gt;2202&lt;/td&gt;&lt;/tr&gt;
       &lt;tr&gt;&lt;td&gt;Val_PRODU&lt;/td&gt;&lt;td&gt;240225.35&lt;/td&gt;&lt;/tr&gt;
         </description>
-	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<Style><LineStyle><color>00ff00ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#Guadalajara">
-		<SimpleData name="stroke">#0000FF</SimpleData>
+		<SimpleData name="stroke">#FFFF00</SimpleData>
 		<SimpleData name="stroke-opacity">1</SimpleData>
 		<SimpleData name="stroke-width">1.5</SimpleData>
 		<SimpleData name="fill-opacity">0</SimpleData>
@@ -1528,9 +1529,9 @@
       &lt;tr&gt;&lt;td&gt;Uni_PRODU&lt;/td&gt;&lt;td&gt;2370&lt;/td&gt;&lt;/tr&gt;
       &lt;tr&gt;&lt;td&gt;Val_PRODU&lt;/td&gt;&lt;td&gt;254706.22&lt;/td&gt;&lt;/tr&gt;
         </description>
-	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<Style><LineStyle><color>00ff00ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#Guadalajara">
-		<SimpleData name="stroke">#0000FF</SimpleData>
+		<SimpleData name="stroke">#FFFF00</SimpleData>
 		<SimpleData name="stroke-opacity">1</SimpleData>
 		<SimpleData name="stroke-width">1.5</SimpleData>
 		<SimpleData name="fill-opacity">0</SimpleData>
@@ -1556,7 +1557,7 @@
         </description>
 	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#Guadalajara">
-		<SimpleData name="stroke">#0000FF</SimpleData>
+		<SimpleData name="stroke">#008000</SimpleData>
 		<SimpleData name="stroke-opacity">1</SimpleData>
 		<SimpleData name="stroke-width">1.5</SimpleData>
 		<SimpleData name="fill-opacity">0</SimpleData>
@@ -1581,7 +1582,7 @@
       &lt;tr&gt;&lt;td&gt;Val_PRODU&lt;/td&gt;&lt;td&gt;160460.9&lt;/td&gt;&lt;/tr&gt;
         </description>
 	<ExtendedData><SchemaData schemaUrl="#Guadalajara">
-		<SimpleData name="stroke">#0000FF</SimpleData>
+		<SimpleData name="stroke">#008000</SimpleData>
 		<SimpleData name="stroke-opacity">1</SimpleData>
 		<SimpleData name="stroke-width">1.5</SimpleData>
 		<SimpleData name="fill-opacity">0</SimpleData>
@@ -1607,7 +1608,7 @@
         </description>
 	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#Guadalajara">
-		<SimpleData name="stroke">#0000FF</SimpleData>
+		<SimpleData name="stroke">#008000</SimpleData>
 		<SimpleData name="stroke-opacity">1</SimpleData>
 		<SimpleData name="stroke-width">1.5</SimpleData>
 		<SimpleData name="fill-opacity">0</SimpleData>
@@ -1633,7 +1634,7 @@
         </description>
 	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#Guadalajara">
-		<SimpleData name="stroke">#0000FF</SimpleData>
+		<SimpleData name="stroke">#008000</SimpleData>
 		<SimpleData name="stroke-opacity">1</SimpleData>
 		<SimpleData name="stroke-width">1.5</SimpleData>
 		<SimpleData name="fill-opacity">0</SimpleData>
@@ -1683,8 +1684,9 @@
       &lt;tr&gt;&lt;td&gt;Uni_PRODU&lt;/td&gt;&lt;td&gt;4662&lt;/td&gt;&lt;/tr&gt;
       &lt;tr&gt;&lt;td&gt;Val_PRODU&lt;/td&gt;&lt;td&gt;567604.11&lt;/td&gt;&lt;/tr&gt;
         </description>
+	<Style><LineStyle><color>00ff00ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#Guadalajara">
-		<SimpleData name="stroke">#0000FF</SimpleData>
+		<SimpleData name="stroke">#FFFF00</SimpleData>
 		<SimpleData name="stroke-opacity">1</SimpleData>
 		<SimpleData name="stroke-width">1.5</SimpleData>
 		<SimpleData name="fill-opacity">0</SimpleData>
@@ -1708,9 +1710,9 @@
       &lt;tr&gt;&lt;td&gt;Uni_PRODU&lt;/td&gt;&lt;td&gt;978&lt;/td&gt;&lt;/tr&gt;
       &lt;tr&gt;&lt;td&gt;Val_PRODU&lt;/td&gt;&lt;td&gt;107255.68&lt;/td&gt;&lt;/tr&gt;
         </description>
-	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<Style><LineStyle><color>00ff00ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#Guadalajara">
-		<SimpleData name="stroke">#0000FF</SimpleData>
+		<SimpleData name="stroke">#FFFF00</SimpleData>
 		<SimpleData name="stroke-opacity">1</SimpleData>
 		<SimpleData name="stroke-width">1.5</SimpleData>
 		<SimpleData name="fill-opacity">0</SimpleData>
@@ -1734,9 +1736,9 @@
       &lt;tr&gt;&lt;td&gt;Uni_PRODU&lt;/td&gt;&lt;td&gt;1490&lt;/td&gt;&lt;/tr&gt;
       &lt;tr&gt;&lt;td&gt;Val_PRODU&lt;/td&gt;&lt;td&gt;218989.41&lt;/td&gt;&lt;/tr&gt;
         </description>
-	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<Style><LineStyle><color>00ff00ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#Guadalajara">
-		<SimpleData name="stroke">#0000FF</SimpleData>
+		<SimpleData name="stroke">#FFFF00</SimpleData>
 		<SimpleData name="stroke-opacity">1</SimpleData>
 		<SimpleData name="stroke-width">1.5</SimpleData>
 		<SimpleData name="fill-opacity">0</SimpleData>
@@ -1762,7 +1764,7 @@
         </description>
 	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#Guadalajara">
-		<SimpleData name="stroke">#0000FF</SimpleData>
+		<SimpleData name="stroke">#008000</SimpleData>
 		<SimpleData name="stroke-opacity">1</SimpleData>
 		<SimpleData name="stroke-width">1.5</SimpleData>
 		<SimpleData name="fill-opacity">0</SimpleData>
@@ -1787,7 +1789,7 @@
       &lt;tr&gt;&lt;td&gt;Val_PRODU&lt;/td&gt;&lt;td&gt;185989.47&lt;/td&gt;&lt;/tr&gt;
         </description>
 	<ExtendedData><SchemaData schemaUrl="#Guadalajara">
-		<SimpleData name="stroke">#0000FF</SimpleData>
+		<SimpleData name="stroke">#008000</SimpleData>
 		<SimpleData name="stroke-opacity">1</SimpleData>
 		<SimpleData name="stroke-width">1.5</SimpleData>
 		<SimpleData name="fill-opacity">0</SimpleData>
