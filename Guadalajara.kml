@@ -29,7 +29,7 @@
 	<ExtendedData><SchemaData schemaUrl="#Guadalajara">
 		<SimpleData name="stroke">#FF0000</SimpleData>
 		<SimpleData name="stroke-opacity">1</SimpleData>
-		<SimpleData name="stroke-width">1.5</SimpleData>
+		<SimpleData name="stroke-width">15</SimpleData>
 		<SimpleData name="fill-opacity">50</SimpleData>
 		<SimpleData name="visibility">1</SimpleData>
 	</SchemaData></ExtendedData>
@@ -55,7 +55,7 @@
 	<ExtendedData><SchemaData schemaUrl="#Guadalajara">
 		<SimpleData name="stroke">#008000</SimpleData>
 		<SimpleData name="stroke-opacity">1</SimpleData>
-		<SimpleData name="stroke-width">1.5</SimpleData>
+		<SimpleData name="stroke-width">15</SimpleData>
 		<SimpleData name="fill-opacity">50</SimpleData>
 		<SimpleData name="visibility">1</SimpleData>
 	</SchemaData></ExtendedData>
@@ -81,7 +81,7 @@
 	<ExtendedData><SchemaData schemaUrl="#Guadalajara">
 		<SimpleData name="stroke">#008000</SimpleData>
 		<SimpleData name="stroke-opacity">1</SimpleData>
-		<SimpleData name="stroke-width">1.5</SimpleData>
+		<SimpleData name="stroke-width">15</SimpleData>
 		<SimpleData name="fill-opacity">50</SimpleData>
 		<SimpleData name="visibility">1</SimpleData>
 	</SchemaData></ExtendedData>
@@ -107,7 +107,7 @@
 	<ExtendedData><SchemaData schemaUrl="#Guadalajara">
 		<SimpleData name="stroke">#008000</SimpleData>
 		<SimpleData name="stroke-opacity">1</SimpleData>
-		<SimpleData name="stroke-width">1.5</SimpleData>
+		<SimpleData name="stroke-width">15</SimpleData>
 		<SimpleData name="fill-opacity">50</SimpleData>
 		<SimpleData name="visibility">1</SimpleData>
 	</SchemaData></ExtendedData>
@@ -133,7 +133,7 @@
 	<ExtendedData><SchemaData schemaUrl="#Guadalajara">
 		<SimpleData name="stroke">#008000</SimpleData>
 		<SimpleData name="stroke-opacity">1</SimpleData>
-		<SimpleData name="stroke-width">1.5</SimpleData>
+		<SimpleData name="stroke-width">15</SimpleData>
 		<SimpleData name="fill-opacity">50</SimpleData>
 		<SimpleData name="visibility">1</SimpleData>
 	</SchemaData></ExtendedData>
@@ -159,7 +159,7 @@
 	<ExtendedData><SchemaData schemaUrl="#Guadalajara">
 		<SimpleData name="stroke">#008000</SimpleData>
 		<SimpleData name="stroke-opacity">1</SimpleData>
-		<SimpleData name="stroke-width">1.5</SimpleData>
+		<SimpleData name="stroke-width">15</SimpleData>
 		<SimpleData name="fill-opacity">50</SimpleData>
 		<SimpleData name="visibility">1</SimpleData>
 	</SchemaData></ExtendedData>
@@ -185,7 +185,7 @@
 	<ExtendedData><SchemaData schemaUrl="#Guadalajara">
 		<SimpleData name="stroke">#008000</SimpleData>
 		<SimpleData name="stroke-opacity">1</SimpleData>
-		<SimpleData name="stroke-width">1.5</SimpleData>
+		<SimpleData name="stroke-width">15</SimpleData>
 		<SimpleData name="fill-opacity">50</SimpleData>
 		<SimpleData name="visibility">1</SimpleData>
 	</SchemaData></ExtendedData>
@@ -211,7 +211,7 @@
 	<ExtendedData><SchemaData schemaUrl="#Guadalajara">
 		<SimpleData name="stroke">#008000</SimpleData>
 		<SimpleData name="stroke-opacity">1</SimpleData>
-		<SimpleData name="stroke-width">1.5</SimpleData>
+		<SimpleData name="stroke-width">15</SimpleData>
 		<SimpleData name="fill-opacity">50</SimpleData>
 		<SimpleData name="visibility">1</SimpleData>
 	</SchemaData></ExtendedData>
@@ -236,7 +236,7 @@
 	<ExtendedData><SchemaData schemaUrl="#Guadalajara">
 		<SimpleData name="stroke">#FF0000</SimpleData>
 		<SimpleData name="stroke-opacity">1</SimpleData>
-		<SimpleData name="stroke-width">1.5</SimpleData>
+		<SimpleData name="stroke-width">15</SimpleData>
 		<SimpleData name="fill-opacity">50</SimpleData>
 		<SimpleData name="visibility">1</SimpleData>
 	</SchemaData></ExtendedData>
@@ -262,7 +262,7 @@
 	<ExtendedData><SchemaData schemaUrl="#Guadalajara">
 		<SimpleData name="stroke">#FFFF00</SimpleData>
 		<SimpleData name="stroke-opacity">1</SimpleData>
-		<SimpleData name="stroke-width">1.5</SimpleData>
+		<SimpleData name="stroke-width">15</SimpleData>
 		<SimpleData name="fill-opacity">50</SimpleData>
 		<SimpleData name="visibility">1</SimpleData>
 	</SchemaData></ExtendedData>
@@ -288,7 +288,7 @@
 	<ExtendedData><SchemaData schemaUrl="#Guadalajara">
 		<SimpleData name="stroke">#0000FF</SimpleData>
 		<SimpleData name="stroke-opacity">1</SimpleData>
-		<SimpleData name="stroke-width">1.5</SimpleData>
+		<SimpleData name="stroke-width">15</SimpleData>
 		<SimpleData name="fill-opacity">50</SimpleData>
 		<SimpleData name="visibility">1</SimpleData>
 	</SchemaData></ExtendedData>
@@ -314,7 +314,7 @@
 	<ExtendedData><SchemaData schemaUrl="#Guadalajara">
 		<SimpleData name="stroke">#0000FF</SimpleData>
 		<SimpleData name="stroke-opacity">1</SimpleData>
-		<SimpleData name="stroke-width">1.5</SimpleData>
+		<SimpleData name="stroke-width">15</SimpleData>
 		<SimpleData name="fill-opacity">50</SimpleData>
 		<SimpleData name="visibility">1</SimpleData>
 	</SchemaData></ExtendedData>
@@ -340,7 +340,7 @@
 	<ExtendedData><SchemaData schemaUrl="#Guadalajara">
 		<SimpleData name="stroke">#0000FF</SimpleData>
 		<SimpleData name="stroke-opacity">1</SimpleData>
-		<SimpleData name="stroke-width">1.5</SimpleData>
+		<SimpleData name="stroke-width">15</SimpleData>
 		<SimpleData name="fill-opacity">50</SimpleData>
 		<SimpleData name="visibility">1</SimpleData>
 	</SchemaData></ExtendedData>
@@ -365,7 +365,7 @@
 	<ExtendedData><SchemaData schemaUrl="#Guadalajara">
 		<SimpleData name="stroke">#0000FF</SimpleData>
 		<SimpleData name="stroke-opacity">1</SimpleData>
-		<SimpleData name="stroke-width">1.5</SimpleData>
+		<SimpleData name="stroke-width">15</SimpleData>
 		<SimpleData name="fill-opacity">50</SimpleData>
 		<SimpleData name="visibility">1</SimpleData>
 	</SchemaData></ExtendedData>
@@ -391,7 +391,7 @@
 	<ExtendedData><SchemaData schemaUrl="#Guadalajara">
 		<SimpleData name="stroke">#0000FF</SimpleData>
 		<SimpleData name="stroke-opacity">1</SimpleData>
-		<SimpleData name="stroke-width">1.5</SimpleData>
+		<SimpleData name="stroke-width">15</SimpleData>
 		<SimpleData name="fill-opacity">50</SimpleData>
 		<SimpleData name="visibility">1</SimpleData>
 	</SchemaData></ExtendedData>
@@ -417,7 +417,7 @@
 	<ExtendedData><SchemaData schemaUrl="#Guadalajara">
 		<SimpleData name="stroke">#FFFF00</SimpleData>
 		<SimpleData name="stroke-opacity">1</SimpleData>
-		<SimpleData name="stroke-width">1.5</SimpleData>
+		<SimpleData name="stroke-width">15</SimpleData>
 		<SimpleData name="fill-opacity">50</SimpleData>
 		<SimpleData name="visibility">1</SimpleData>
 	</SchemaData></ExtendedData>
@@ -443,7 +443,7 @@
 	<ExtendedData><SchemaData schemaUrl="#Guadalajara">
 		<SimpleData name="stroke">#FFFF00</SimpleData>
 		<SimpleData name="stroke-opacity">1</SimpleData>
-		<SimpleData name="stroke-width">1.5</SimpleData>
+		<SimpleData name="stroke-width">15</SimpleData>
 		<SimpleData name="fill-opacity">50</SimpleData>
 		<SimpleData name="visibility">1</SimpleData>
 	</SchemaData></ExtendedData>
@@ -469,7 +469,7 @@
 	<ExtendedData><SchemaData schemaUrl="#Guadalajara">
 		<SimpleData name="stroke">#FFFF00</SimpleData>
 		<SimpleData name="stroke-opacity">1</SimpleData>
-		<SimpleData name="stroke-width">1.5</SimpleData>
+		<SimpleData name="stroke-width">15</SimpleData>
 		<SimpleData name="fill-opacity">50</SimpleData>
 		<SimpleData name="visibility">1</SimpleData>
 	</SchemaData></ExtendedData>
@@ -495,7 +495,7 @@
 	<ExtendedData><SchemaData schemaUrl="#Guadalajara">
 		<SimpleData name="stroke">#FFFF00</SimpleData>
 		<SimpleData name="stroke-opacity">1</SimpleData>
-		<SimpleData name="stroke-width">1.5</SimpleData>
+		<SimpleData name="stroke-width">15</SimpleData>
 		<SimpleData name="fill-opacity">50</SimpleData>
 		<SimpleData name="visibility">1</SimpleData>
 	</SchemaData></ExtendedData>
@@ -521,7 +521,7 @@
 	<ExtendedData><SchemaData schemaUrl="#Guadalajara">
 		<SimpleData name="stroke">#FFFF00</SimpleData>
 		<SimpleData name="stroke-opacity">1</SimpleData>
-		<SimpleData name="stroke-width">1.5</SimpleData>
+		<SimpleData name="stroke-width">15</SimpleData>
 		<SimpleData name="fill-opacity">50</SimpleData>
 		<SimpleData name="visibility">1</SimpleData>
 	</SchemaData></ExtendedData>
@@ -547,7 +547,7 @@
 	<ExtendedData><SchemaData schemaUrl="#Guadalajara">
 		<SimpleData name="stroke">#FFFF00</SimpleData>
 		<SimpleData name="stroke-opacity">1</SimpleData>
-		<SimpleData name="stroke-width">1.5</SimpleData>
+		<SimpleData name="stroke-width">15</SimpleData>
 		<SimpleData name="fill-opacity">50</SimpleData>
 		<SimpleData name="visibility">1</SimpleData>
 	</SchemaData></ExtendedData>
@@ -573,7 +573,7 @@
 	<ExtendedData><SchemaData schemaUrl="#Guadalajara">
 		<SimpleData name="stroke">#FFFF00</SimpleData>
 		<SimpleData name="stroke-opacity">1</SimpleData>
-		<SimpleData name="stroke-width">1.5</SimpleData>
+		<SimpleData name="stroke-width">15</SimpleData>
 		<SimpleData name="fill-opacity">50</SimpleData>
 		<SimpleData name="visibility">1</SimpleData>
 	</SchemaData></ExtendedData>
@@ -599,7 +599,7 @@
 	<ExtendedData><SchemaData schemaUrl="#Guadalajara">
 		<SimpleData name="stroke">#FFFF00</SimpleData>
 		<SimpleData name="stroke-opacity">1</SimpleData>
-		<SimpleData name="stroke-width">1.5</SimpleData>
+		<SimpleData name="stroke-width">15</SimpleData>
 		<SimpleData name="fill-opacity">50</SimpleData>
 		<SimpleData name="visibility">1</SimpleData>
 	</SchemaData></ExtendedData>
@@ -624,7 +624,7 @@
 	<ExtendedData><SchemaData schemaUrl="#Guadalajara">
 		<SimpleData name="stroke">#008000</SimpleData>
 		<SimpleData name="stroke-opacity">1</SimpleData>
-		<SimpleData name="stroke-width">1.5</SimpleData>
+		<SimpleData name="stroke-width">15</SimpleData>
 		<SimpleData name="fill-opacity">50</SimpleData>
 		<SimpleData name="visibility">1</SimpleData>
 	</SchemaData></ExtendedData>
@@ -650,7 +650,7 @@
 	<ExtendedData><SchemaData schemaUrl="#Guadalajara">
 		<SimpleData name="stroke">#FFFF00</SimpleData>
 		<SimpleData name="stroke-opacity">1</SimpleData>
-		<SimpleData name="stroke-width">1.5</SimpleData>
+		<SimpleData name="stroke-width">15</SimpleData>
 		<SimpleData name="fill-opacity">50</SimpleData>
 		<SimpleData name="visibility">1</SimpleData>
 	</SchemaData></ExtendedData>
@@ -676,7 +676,7 @@
 	<ExtendedData><SchemaData schemaUrl="#Guadalajara">
 		<SimpleData name="stroke">#FFFF00</SimpleData>
 		<SimpleData name="stroke-opacity">1</SimpleData>
-		<SimpleData name="stroke-width">1.5</SimpleData>
+		<SimpleData name="stroke-width">15</SimpleData>
 		<SimpleData name="fill-opacity">50</SimpleData>
 		<SimpleData name="visibility">1</SimpleData>
 	</SchemaData></ExtendedData>
@@ -702,7 +702,7 @@
 	<ExtendedData><SchemaData schemaUrl="#Guadalajara">
 		<SimpleData name="stroke">#FFFF00</SimpleData>
 		<SimpleData name="stroke-opacity">1</SimpleData>
-		<SimpleData name="stroke-width">1.5</SimpleData>
+		<SimpleData name="stroke-width">15</SimpleData>
 		<SimpleData name="fill-opacity">50</SimpleData>
 		<SimpleData name="visibility">1</SimpleData>
 	</SchemaData></ExtendedData>
@@ -728,7 +728,7 @@
 	<ExtendedData><SchemaData schemaUrl="#Guadalajara">
 		<SimpleData name="stroke">#FFFF00</SimpleData>
 		<SimpleData name="stroke-opacity">1</SimpleData>
-		<SimpleData name="stroke-width">1.5</SimpleData>
+		<SimpleData name="stroke-width">15</SimpleData>
 		<SimpleData name="fill-opacity">50</SimpleData>
 		<SimpleData name="visibility">1</SimpleData>
 	</SchemaData></ExtendedData>
@@ -754,7 +754,7 @@
 	<ExtendedData><SchemaData schemaUrl="#Guadalajara">
 		<SimpleData name="stroke">#FFFF00</SimpleData>
 		<SimpleData name="stroke-opacity">1</SimpleData>
-		<SimpleData name="stroke-width">1.5</SimpleData>
+		<SimpleData name="stroke-width">15</SimpleData>
 		<SimpleData name="fill-opacity">50</SimpleData>
 		<SimpleData name="visibility">1</SimpleData>
 	</SchemaData></ExtendedData>
@@ -780,7 +780,7 @@
 	<ExtendedData><SchemaData schemaUrl="#Guadalajara">
 		<SimpleData name="stroke">#FFFF00</SimpleData>
 		<SimpleData name="stroke-opacity">1</SimpleData>
-		<SimpleData name="stroke-width">1.5</SimpleData>
+		<SimpleData name="stroke-width">15</SimpleData>
 		<SimpleData name="fill-opacity">50</SimpleData>
 		<SimpleData name="visibility">1</SimpleData>
 	</SchemaData></ExtendedData>
@@ -806,7 +806,7 @@
 	<ExtendedData><SchemaData schemaUrl="#Guadalajara">
 		<SimpleData name="stroke">#FFFF00</SimpleData>
 		<SimpleData name="stroke-opacity">1</SimpleData>
-		<SimpleData name="stroke-width">1.5</SimpleData>
+		<SimpleData name="stroke-width">15</SimpleData>
 		<SimpleData name="fill-opacity">50</SimpleData>
 		<SimpleData name="visibility">1</SimpleData>
 	</SchemaData></ExtendedData>
@@ -832,7 +832,7 @@
 	<ExtendedData><SchemaData schemaUrl="#Guadalajara">
 		<SimpleData name="stroke">#FFFF00</SimpleData>
 		<SimpleData name="stroke-opacity">1</SimpleData>
-		<SimpleData name="stroke-width">1.5</SimpleData>
+		<SimpleData name="stroke-width">15</SimpleData>
 		<SimpleData name="fill-opacity">50</SimpleData>
 		<SimpleData name="visibility">1</SimpleData>
 	</SchemaData></ExtendedData>
@@ -858,7 +858,7 @@
 	<ExtendedData><SchemaData schemaUrl="#Guadalajara">
 		<SimpleData name="stroke">#FFFF00</SimpleData>
 		<SimpleData name="stroke-opacity">1</SimpleData>
-		<SimpleData name="stroke-width">1.5</SimpleData>
+		<SimpleData name="stroke-width">15</SimpleData>
 		<SimpleData name="fill-opacity">50</SimpleData>
 		<SimpleData name="visibility">1</SimpleData>
 	</SchemaData></ExtendedData>
@@ -884,7 +884,7 @@
 	<ExtendedData><SchemaData schemaUrl="#Guadalajara">
 		<SimpleData name="stroke">#FFFF00</SimpleData>
 		<SimpleData name="stroke-opacity">1</SimpleData>
-		<SimpleData name="stroke-width">1.5</SimpleData>
+		<SimpleData name="stroke-width">15</SimpleData>
 		<SimpleData name="fill-opacity">50</SimpleData>
 		<SimpleData name="visibility">1</SimpleData>
 	</SchemaData></ExtendedData>
@@ -910,7 +910,7 @@
 	<ExtendedData><SchemaData schemaUrl="#Guadalajara">
 		<SimpleData name="stroke">#FFFF00</SimpleData>
 		<SimpleData name="stroke-opacity">1</SimpleData>
-		<SimpleData name="stroke-width">1.5</SimpleData>
+		<SimpleData name="stroke-width">15</SimpleData>
 		<SimpleData name="fill-opacity">50</SimpleData>
 		<SimpleData name="visibility">1</SimpleData>
 	</SchemaData></ExtendedData>
@@ -936,7 +936,7 @@
 	<ExtendedData><SchemaData schemaUrl="#Guadalajara">
 		<SimpleData name="stroke">#FFFF00</SimpleData>
 		<SimpleData name="stroke-opacity">1</SimpleData>
-		<SimpleData name="stroke-width">1.5</SimpleData>
+		<SimpleData name="stroke-width">15</SimpleData>
 		<SimpleData name="fill-opacity">50</SimpleData>
 		<SimpleData name="visibility">1</SimpleData>
 	</SchemaData></ExtendedData>
@@ -962,7 +962,7 @@
 	<ExtendedData><SchemaData schemaUrl="#Guadalajara">
 		<SimpleData name="stroke">#FFFF00</SimpleData>
 		<SimpleData name="stroke-opacity">1</SimpleData>
-		<SimpleData name="stroke-width">1.5</SimpleData>
+		<SimpleData name="stroke-width">15</SimpleData>
 		<SimpleData name="fill-opacity">50</SimpleData>
 		<SimpleData name="visibility">1</SimpleData>
 	</SchemaData></ExtendedData>
@@ -988,7 +988,7 @@
 	<ExtendedData><SchemaData schemaUrl="#Guadalajara">
 		<SimpleData name="stroke">#FFFF00</SimpleData>
 		<SimpleData name="stroke-opacity">1</SimpleData>
-		<SimpleData name="stroke-width">1.5</SimpleData>
+		<SimpleData name="stroke-width">15</SimpleData>
 		<SimpleData name="fill-opacity">50</SimpleData>
 		<SimpleData name="visibility">1</SimpleData>
 	</SchemaData></ExtendedData>
@@ -1014,7 +1014,7 @@
 	<ExtendedData><SchemaData schemaUrl="#Guadalajara">
 		<SimpleData name="stroke">#FFFF00</SimpleData>
 		<SimpleData name="stroke-opacity">1</SimpleData>
-		<SimpleData name="stroke-width">1.5</SimpleData>
+		<SimpleData name="stroke-width">15</SimpleData>
 		<SimpleData name="fill-opacity">50</SimpleData>
 		<SimpleData name="visibility">1</SimpleData>
 	</SchemaData></ExtendedData>
@@ -1040,7 +1040,7 @@
 	<ExtendedData><SchemaData schemaUrl="#Guadalajara">
 		<SimpleData name="stroke">#FFFF00</SimpleData>
 		<SimpleData name="stroke-opacity">1</SimpleData>
-		<SimpleData name="stroke-width">1.5</SimpleData>
+		<SimpleData name="stroke-width">15</SimpleData>
 		<SimpleData name="fill-opacity">50</SimpleData>
 		<SimpleData name="visibility">1</SimpleData>
 	</SchemaData></ExtendedData>
@@ -1066,7 +1066,7 @@
 	<ExtendedData><SchemaData schemaUrl="#Guadalajara">
 		<SimpleData name="stroke">#FFFF00</SimpleData>
 		<SimpleData name="stroke-opacity">1</SimpleData>
-		<SimpleData name="stroke-width">1.5</SimpleData>
+		<SimpleData name="stroke-width">15</SimpleData>
 		<SimpleData name="fill-opacity">50</SimpleData>
 		<SimpleData name="visibility">1</SimpleData>
 	</SchemaData></ExtendedData>
@@ -1092,7 +1092,7 @@
 	<ExtendedData><SchemaData schemaUrl="#Guadalajara">
 		<SimpleData name="stroke">#0000FF</SimpleData>
 		<SimpleData name="stroke-opacity">1</SimpleData>
-		<SimpleData name="stroke-width">1.5</SimpleData>
+		<SimpleData name="stroke-width">15</SimpleData>
 		<SimpleData name="fill-opacity">50</SimpleData>
 		<SimpleData name="visibility">1</SimpleData>
 	</SchemaData></ExtendedData>
@@ -1118,7 +1118,7 @@
 	<ExtendedData><SchemaData schemaUrl="#Guadalajara">
 		<SimpleData name="stroke">#0000FF</SimpleData>
 		<SimpleData name="stroke-opacity">1</SimpleData>
-		<SimpleData name="stroke-width">1.5</SimpleData>
+		<SimpleData name="stroke-width">15</SimpleData>
 		<SimpleData name="fill-opacity">50</SimpleData>
 		<SimpleData name="visibility">1</SimpleData>
 	</SchemaData></ExtendedData>
@@ -1144,7 +1144,7 @@
 	<ExtendedData><SchemaData schemaUrl="#Guadalajara">
 		<SimpleData name="stroke">#0000FF</SimpleData>
 		<SimpleData name="stroke-opacity">1</SimpleData>
-		<SimpleData name="stroke-width">1.5</SimpleData>
+		<SimpleData name="stroke-width">15</SimpleData>
 		<SimpleData name="fill-opacity">50</SimpleData>
 		<SimpleData name="visibility">1</SimpleData>
 	</SchemaData></ExtendedData>
@@ -1170,7 +1170,7 @@
 	<ExtendedData><SchemaData schemaUrl="#Guadalajara">
 		<SimpleData name="stroke">#FFFF00</SimpleData>
 		<SimpleData name="stroke-opacity">1</SimpleData>
-		<SimpleData name="stroke-width">1.5</SimpleData>
+		<SimpleData name="stroke-width">15</SimpleData>
 		<SimpleData name="fill-opacity">50</SimpleData>
 		<SimpleData name="visibility">1</SimpleData>
 	</SchemaData></ExtendedData>
@@ -1195,7 +1195,7 @@
 	<ExtendedData><SchemaData schemaUrl="#Guadalajara">
 		<SimpleData name="stroke">#0000FF</SimpleData>
 		<SimpleData name="stroke-opacity">1</SimpleData>
-		<SimpleData name="stroke-width">1.5</SimpleData>
+		<SimpleData name="stroke-width">15</SimpleData>
 		<SimpleData name="fill-opacity">50</SimpleData>
 		<SimpleData name="visibility">1</SimpleData>
 	</SchemaData></ExtendedData>
@@ -1221,7 +1221,7 @@
 	<ExtendedData><SchemaData schemaUrl="#Guadalajara">
 		<SimpleData name="stroke">#0000FF</SimpleData>
 		<SimpleData name="stroke-opacity">1</SimpleData>
-		<SimpleData name="stroke-width">1.5</SimpleData>
+		<SimpleData name="stroke-width">15</SimpleData>
 		<SimpleData name="fill-opacity">50</SimpleData>
 		<SimpleData name="visibility">1</SimpleData>
 	</SchemaData></ExtendedData>
@@ -1247,7 +1247,7 @@
 	<ExtendedData><SchemaData schemaUrl="#Guadalajara">
 		<SimpleData name="stroke">#0000FF</SimpleData>
 		<SimpleData name="stroke-opacity">1</SimpleData>
-		<SimpleData name="stroke-width">1.5</SimpleData>
+		<SimpleData name="stroke-width">15</SimpleData>
 		<SimpleData name="fill-opacity">50</SimpleData>
 		<SimpleData name="visibility">1</SimpleData>
 	</SchemaData></ExtendedData>
@@ -1273,7 +1273,7 @@
 	<ExtendedData><SchemaData schemaUrl="#Guadalajara">
 		<SimpleData name="stroke">#0000FF</SimpleData>
 		<SimpleData name="stroke-opacity">1</SimpleData>
-		<SimpleData name="stroke-width">1.5</SimpleData>
+		<SimpleData name="stroke-width">15</SimpleData>
 		<SimpleData name="fill-opacity">50</SimpleData>
 		<SimpleData name="visibility">1</SimpleData>
 	</SchemaData></ExtendedData>
@@ -1299,7 +1299,7 @@
 	<ExtendedData><SchemaData schemaUrl="#Guadalajara">
 		<SimpleData name="stroke">#FFFF00</SimpleData>
 		<SimpleData name="stroke-opacity">1</SimpleData>
-		<SimpleData name="stroke-width">1.5</SimpleData>
+		<SimpleData name="stroke-width">15</SimpleData>
 		<SimpleData name="fill-opacity">50</SimpleData>
 		<SimpleData name="visibility">1</SimpleData>
 	</SchemaData></ExtendedData>
@@ -1325,7 +1325,7 @@
 	<ExtendedData><SchemaData schemaUrl="#Guadalajara">
 		<SimpleData name="stroke">#FFFF00</SimpleData>
 		<SimpleData name="stroke-opacity">1</SimpleData>
-		<SimpleData name="stroke-width">1.5</SimpleData>
+		<SimpleData name="stroke-width">15</SimpleData>
 		<SimpleData name="fill-opacity">50</SimpleData>
 		<SimpleData name="visibility">1</SimpleData>
 	</SchemaData></ExtendedData>
@@ -1351,7 +1351,7 @@
 	<ExtendedData><SchemaData schemaUrl="#Guadalajara">
 		<SimpleData name="stroke">#FFFF00</SimpleData>
 		<SimpleData name="stroke-opacity">1</SimpleData>
-		<SimpleData name="stroke-width">1.5</SimpleData>
+		<SimpleData name="stroke-width">15</SimpleData>
 		<SimpleData name="fill-opacity">50</SimpleData>
 		<SimpleData name="visibility">1</SimpleData>
 	</SchemaData></ExtendedData>
@@ -1377,7 +1377,7 @@
 	<ExtendedData><SchemaData schemaUrl="#Guadalajara">
 		<SimpleData name="stroke">#FFFF00</SimpleData>
 		<SimpleData name="stroke-opacity">1</SimpleData>
-		<SimpleData name="stroke-width">1.5</SimpleData>
+		<SimpleData name="stroke-width">15</SimpleData>
 		<SimpleData name="fill-opacity">50</SimpleData>
 		<SimpleData name="visibility">1</SimpleData>
 	</SchemaData></ExtendedData>
@@ -1403,7 +1403,7 @@
 	<ExtendedData><SchemaData schemaUrl="#Guadalajara">
 		<SimpleData name="stroke">#FFFF00</SimpleData>
 		<SimpleData name="stroke-opacity">1</SimpleData>
-		<SimpleData name="stroke-width">1.5</SimpleData>
+		<SimpleData name="stroke-width">15</SimpleData>
 		<SimpleData name="fill-opacity">50</SimpleData>
 		<SimpleData name="visibility">1</SimpleData>
 	</SchemaData></ExtendedData>
@@ -1429,7 +1429,7 @@
 	<ExtendedData><SchemaData schemaUrl="#Guadalajara">
 		<SimpleData name="stroke">#FFFF00</SimpleData>
 		<SimpleData name="stroke-opacity">1</SimpleData>
-		<SimpleData name="stroke-width">1.5</SimpleData>
+		<SimpleData name="stroke-width">15</SimpleData>
 		<SimpleData name="fill-opacity">50</SimpleData>
 		<SimpleData name="visibility">1</SimpleData>
 	</SchemaData></ExtendedData>
@@ -1455,7 +1455,7 @@
 	<ExtendedData><SchemaData schemaUrl="#Guadalajara">
 		<SimpleData name="stroke">#FFFF00</SimpleData>
 		<SimpleData name="stroke-opacity">1</SimpleData>
-		<SimpleData name="stroke-width">1.5</SimpleData>
+		<SimpleData name="stroke-width">15</SimpleData>
 		<SimpleData name="fill-opacity">50</SimpleData>
 		<SimpleData name="visibility">1</SimpleData>
 	</SchemaData></ExtendedData>
@@ -1481,7 +1481,7 @@
 	<ExtendedData><SchemaData schemaUrl="#Guadalajara">
 		<SimpleData name="stroke">#FFFF00</SimpleData>
 		<SimpleData name="stroke-opacity">1</SimpleData>
-		<SimpleData name="stroke-width">1.5</SimpleData>
+		<SimpleData name="stroke-width">15</SimpleData>
 		<SimpleData name="fill-opacity">50</SimpleData>
 		<SimpleData name="visibility">1</SimpleData>
 	</SchemaData></ExtendedData>
@@ -1507,7 +1507,7 @@
 	<ExtendedData><SchemaData schemaUrl="#Guadalajara">
 		<SimpleData name="stroke">#FFFF00</SimpleData>
 		<SimpleData name="stroke-opacity">1</SimpleData>
-		<SimpleData name="stroke-width">1.5</SimpleData>
+		<SimpleData name="stroke-width">15</SimpleData>
 		<SimpleData name="fill-opacity">50</SimpleData>
 		<SimpleData name="visibility">1</SimpleData>
 	</SchemaData></ExtendedData>
@@ -1533,7 +1533,7 @@
 	<ExtendedData><SchemaData schemaUrl="#Guadalajara">
 		<SimpleData name="stroke">#FFFF00</SimpleData>
 		<SimpleData name="stroke-opacity">1</SimpleData>
-		<SimpleData name="stroke-width">1.5</SimpleData>
+		<SimpleData name="stroke-width">15</SimpleData>
 		<SimpleData name="fill-opacity">50</SimpleData>
 		<SimpleData name="visibility">1</SimpleData>
 	</SchemaData></ExtendedData>
@@ -1559,7 +1559,7 @@
 	<ExtendedData><SchemaData schemaUrl="#Guadalajara">
 		<SimpleData name="stroke">#008000</SimpleData>
 		<SimpleData name="stroke-opacity">1</SimpleData>
-		<SimpleData name="stroke-width">1.5</SimpleData>
+		<SimpleData name="stroke-width">15</SimpleData>
 		<SimpleData name="fill-opacity">50</SimpleData>
 		<SimpleData name="visibility">1</SimpleData>
 	</SchemaData></ExtendedData>
@@ -1584,7 +1584,7 @@
 	<ExtendedData><SchemaData schemaUrl="#Guadalajara">
 		<SimpleData name="stroke">#008000</SimpleData>
 		<SimpleData name="stroke-opacity">1</SimpleData>
-		<SimpleData name="stroke-width">1.5</SimpleData>
+		<SimpleData name="stroke-width">15</SimpleData>
 		<SimpleData name="fill-opacity">50</SimpleData>
 		<SimpleData name="visibility">1</SimpleData>
 	</SchemaData></ExtendedData>
@@ -1610,7 +1610,7 @@
 	<ExtendedData><SchemaData schemaUrl="#Guadalajara">
 		<SimpleData name="stroke">#008000</SimpleData>
 		<SimpleData name="stroke-opacity">1</SimpleData>
-		<SimpleData name="stroke-width">1.5</SimpleData>
+		<SimpleData name="stroke-width">15</SimpleData>
 		<SimpleData name="fill-opacity">50</SimpleData>
 		<SimpleData name="visibility">1</SimpleData>
 	</SchemaData></ExtendedData>
@@ -1636,7 +1636,7 @@
 	<ExtendedData><SchemaData schemaUrl="#Guadalajara">
 		<SimpleData name="stroke">#008000</SimpleData>
 		<SimpleData name="stroke-opacity">1</SimpleData>
-		<SimpleData name="stroke-width">1.5</SimpleData>
+		<SimpleData name="stroke-width">15</SimpleData>
 		<SimpleData name="fill-opacity">50</SimpleData>
 		<SimpleData name="visibility">1</SimpleData>
 	</SchemaData></ExtendedData>
@@ -1662,7 +1662,7 @@
 	<ExtendedData><SchemaData schemaUrl="#Guadalajara">
 		<SimpleData name="stroke">#0000FF</SimpleData>
 		<SimpleData name="stroke-opacity">1</SimpleData>
-		<SimpleData name="stroke-width">1.5</SimpleData>
+		<SimpleData name="stroke-width">15</SimpleData>
 		<SimpleData name="fill-opacity">50</SimpleData>
 		<SimpleData name="visibility">1</SimpleData>
 	</SchemaData></ExtendedData>
@@ -1688,7 +1688,7 @@
 	<ExtendedData><SchemaData schemaUrl="#Guadalajara">
 		<SimpleData name="stroke">#FFFF00</SimpleData>
 		<SimpleData name="stroke-opacity">1</SimpleData>
-		<SimpleData name="stroke-width">1.5</SimpleData>
+		<SimpleData name="stroke-width">15</SimpleData>
 		<SimpleData name="fill-opacity">50</SimpleData>
 		<SimpleData name="visibility">1</SimpleData>
 	</SchemaData></ExtendedData>
@@ -1714,7 +1714,7 @@
 	<ExtendedData><SchemaData schemaUrl="#Guadalajara">
 		<SimpleData name="stroke">#FFFF00</SimpleData>
 		<SimpleData name="stroke-opacity">1</SimpleData>
-		<SimpleData name="stroke-width">1.5</SimpleData>
+		<SimpleData name="stroke-width">15</SimpleData>
 		<SimpleData name="fill-opacity">50</SimpleData>
 		<SimpleData name="visibility">1</SimpleData>
 	</SchemaData></ExtendedData>
@@ -1740,7 +1740,7 @@
 	<ExtendedData><SchemaData schemaUrl="#Guadalajara">
 		<SimpleData name="stroke">#FFFF00</SimpleData>
 		<SimpleData name="stroke-opacity">1</SimpleData>
-		<SimpleData name="stroke-width">1.5</SimpleData>
+		<SimpleData name="stroke-width">15</SimpleData>
 		<SimpleData name="fill-opacity">50</SimpleData>
 		<SimpleData name="visibility">1</SimpleData>
 	</SchemaData></ExtendedData>
@@ -1766,7 +1766,7 @@
 	<ExtendedData><SchemaData schemaUrl="#Guadalajara">
 		<SimpleData name="stroke">#008000</SimpleData>
 		<SimpleData name="stroke-opacity">1</SimpleData>
-		<SimpleData name="stroke-width">1.5</SimpleData>
+		<SimpleData name="stroke-width">15</SimpleData>
 		<SimpleData name="fill-opacity">50</SimpleData>
 		<SimpleData name="visibility">1</SimpleData>
 	</SchemaData></ExtendedData>
@@ -1791,7 +1791,7 @@
 	<ExtendedData><SchemaData schemaUrl="#Guadalajara">
 		<SimpleData name="stroke">#008000</SimpleData>
 		<SimpleData name="stroke-opacity">1</SimpleData>
-		<SimpleData name="stroke-width">1.5</SimpleData>
+		<SimpleData name="stroke-width">15</SimpleData>
 		<SimpleData name="fill-opacity">50</SimpleData>
 		<SimpleData name="visibility">1</SimpleData>
 	</SchemaData></ExtendedData>
