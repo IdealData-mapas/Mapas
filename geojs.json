@@ -6,8 +6,9 @@
 			"stroke": "#555555",
 			"stroke-width": 2,
 			"stroke-opacity": 1,
-			"fill": "#00aa22",
-			"fill-opacity": 0.5
+			"fill": "#B536F0",
+			"fill-opacity": 0.5,
+			"name": "Brick UNO"
 		},
 		"geometry": {
 			"type": "Polygon",
@@ -534,8 +535,9 @@
 			"stroke": "#555555",
 			"stroke-width": 2,
 			"stroke-opacity": 1,
-			"fill": "#7987ff",
-			"fill-opacity": 0.5
+			"fill": "#F4A201",
+			"fill-opacity": 0.5,
+			"name": "Brick DOS"
 		},
 		"geometry": {
 			"type": "Polygon",
