@@ -3,10 +3,7 @@
 <Document id="root_doc">
 <Style id="s1">
 	<PolyStyle>
-		<color>ff0000ff</color>
-		<colorMode>normal</colorMode>
-		<fill>1</fill>
-		<outline>1</outline>
+		<color>7f0000ff</color>
 	</PolyStyle>
 </Style>
 <Schema name="Guadalajara" id="Guadalajara">
